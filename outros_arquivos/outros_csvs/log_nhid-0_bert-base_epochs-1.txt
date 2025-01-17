@@ -1,0 +1,1783 @@
+2025-01-12 01:58:53,799 - INFO - Generating sentence embeddings
+2025-01-12 01:59:00,668 - INFO - Generated sentence embeddings
+2025-01-12 01:59:00,669 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 01:59:03,259 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 76.95
+2025-01-12 01:59:05,360 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 76.19
+2025-01-12 01:59:07,680 - INFO - Best param found at split 3: l2reg = 0.01                 with score 76.92
+2025-01-12 01:59:10,236 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.75
+2025-01-12 01:59:13,519 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 76.39
+2025-01-12 01:59:13,681 - INFO - Generating sentence embeddings
+2025-01-12 01:59:20,456 - INFO - Generated sentence embeddings
+2025-01-12 01:59:20,457 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 01:59:24,288 - INFO - Best param found at split 1: l2reg = 0.001                 with score 82.28
+2025-01-12 01:59:28,843 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.09
+2025-01-12 01:59:32,350 - INFO - Best param found at split 3: l2reg = 0.01                 with score 82.75
+2025-01-12 01:59:35,506 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 82.48
+2025-01-12 01:59:38,995 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.05
+2025-01-12 01:59:39,128 - INFO - Generating sentence embeddings
+2025-01-12 01:59:45,724 - INFO - Generated sentence embeddings
+2025-01-12 01:59:45,724 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 01:59:47,993 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.96
+2025-01-12 01:59:50,595 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 81.42
+2025-01-12 01:59:53,104 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 81.06
+2025-01-12 01:59:55,913 - INFO - Best param found at split 4: l2reg = 0.01                 with score 81.06
+2025-01-12 02:00:00,306 - INFO - Best param found at split 5: l2reg = 0.01                 with score 80.86
+2025-01-12 02:00:00,508 - INFO - Generating sentence embeddings
+2025-01-12 02:00:07,267 - INFO - Generated sentence embeddings
+2025-01-12 02:00:07,267 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:00:09,151 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 73.05
+2025-01-12 02:00:11,160 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 72.15
+2025-01-12 02:00:13,445 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.91
+2025-01-12 02:00:15,674 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 72.02
+2025-01-12 02:00:17,806 - INFO - Best param found at split 5: l2reg = 0.001                 with score 73.28
+2025-01-12 02:00:17,907 - INFO - Generating sentence embeddings
+2025-01-12 02:00:24,658 - INFO - Generated sentence embeddings
+2025-01-12 02:00:24,658 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:00:27,413 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 82.72
+2025-01-12 02:00:30,621 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.32
+2025-01-12 02:00:33,607 - INFO - Best param found at split 3: l2reg = 0.01                 with score 82.85
+2025-01-12 02:00:36,507 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.62
+2025-01-12 02:00:39,599 - INFO - Best param found at split 5: l2reg = 0.001                 with score 82.09
+2025-01-12 02:00:39,848 - INFO - Generating sentence embeddings
+2025-01-12 02:00:46,551 - INFO - Generated sentence embeddings
+2025-01-12 02:00:46,551 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:00:48,673 - INFO - Best param found at split 1: l2reg = 0.01                 with score 81.13
+2025-01-12 02:00:50,846 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.49
+2025-01-12 02:00:53,200 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 81.26
+2025-01-12 02:00:55,763 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.5
+2025-01-12 02:00:58,272 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.93
+2025-01-12 02:00:58,369 - INFO - Generating sentence embeddings
+2025-01-12 02:01:05,195 - INFO - Generated sentence embeddings
+2025-01-12 02:01:05,195 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:01:07,101 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 72.22
+2025-01-12 02:01:09,181 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 72.78
+2025-01-12 02:01:11,628 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.91
+2025-01-12 02:01:13,697 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 72.02
+2025-01-12 02:01:15,896 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 73.54
+2025-01-12 02:01:15,991 - INFO - Generating sentence embeddings
+2025-01-12 02:01:22,804 - INFO - Generated sentence embeddings
+2025-01-12 02:01:22,805 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:01:24,964 - INFO - Best param found at split 1: l2reg = 0.01                 with score 80.99
+2025-01-12 02:01:27,980 - INFO - Best param found at split 2: l2reg = 0.001                 with score 80.7
+2025-01-12 02:01:30,577 - INFO - Best param found at split 3: l2reg = 0.001                 with score 80.7
+2025-01-12 02:01:32,971 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.83
+2025-01-12 02:01:35,452 - INFO - Best param found at split 5: l2reg = 0.001                 with score 81.32
+2025-01-12 02:01:35,540 - INFO - Generating sentence embeddings
+2025-01-12 02:01:42,232 - INFO - Generated sentence embeddings
+2025-01-12 02:01:42,232 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:01:44,856 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 81.32
+2025-01-12 02:01:47,026 - INFO - Best param found at split 2: l2reg = 0.01                 with score 80.96
+2025-01-12 02:01:49,028 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.89
+2025-01-12 02:01:51,369 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.63
+2025-01-12 02:01:53,704 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.46
+2025-01-12 02:01:53,806 - INFO - Generating sentence embeddings
+2025-01-12 02:02:00,598 - INFO - Generated sentence embeddings
+2025-01-12 02:02:00,598 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:02:02,733 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 78.21
+2025-01-12 02:02:04,906 - INFO - Best param found at split 2: l2reg = 0.001                 with score 78.21
+2025-01-12 02:02:07,639 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 78.31
+2025-01-12 02:02:09,712 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.79
+2025-01-12 02:02:11,871 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 77.32
+2025-01-12 02:02:11,986 - INFO - Generating sentence embeddings
+2025-01-12 02:02:18,726 - INFO - Generated sentence embeddings
+2025-01-12 02:02:18,726 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:02:20,577 - INFO - Best param found at split 1: l2reg = 0.01                 with score 80.99
+2025-01-12 02:02:22,841 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.06
+2025-01-12 02:02:24,780 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.86
+2025-01-12 02:02:27,196 - INFO - Best param found at split 4: l2reg = 0.01                 with score 81.49
+2025-01-12 02:02:29,766 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.49
+2025-01-12 02:02:29,892 - INFO - Generating sentence embeddings
+2025-01-12 02:02:36,727 - INFO - Generated sentence embeddings
+2025-01-12 02:02:36,728 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:02:38,857 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.89
+2025-01-12 02:02:40,865 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.56
+2025-01-12 02:02:42,812 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.7
+2025-01-12 02:02:45,042 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.99
+2025-01-12 02:02:47,404 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.2
+2025-01-12 02:02:47,507 - INFO - Generating sentence embeddings
+2025-01-12 02:02:54,209 - INFO - Generated sentence embeddings
+2025-01-12 02:02:54,209 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:02:56,653 - INFO - Best param found at split 1: l2reg = 0.01                 with score 78.05
+2025-01-12 02:03:00,316 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 78.74
+2025-01-12 02:03:04,636 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 78.34
+2025-01-12 02:03:08,598 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.92
+2025-01-12 02:03:12,481 - INFO - Best param found at split 5: l2reg = 0.01                 with score 77.78
+2025-01-12 02:03:12,686 - INFO - Generating sentence embeddings
+2025-01-12 02:03:19,538 - INFO - Generated sentence embeddings
+2025-01-12 02:03:19,539 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:03:22,902 - INFO - Best param found at split 1: l2reg = 0.01                 with score 82.95
+2025-01-12 02:03:27,492 - INFO - Best param found at split 2: l2reg = 0.001                 with score 82.98
+2025-01-12 02:03:32,329 - INFO - Best param found at split 3: l2reg = 0.001                 with score 83.18
+2025-01-12 02:03:37,367 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.08
+2025-01-12 02:03:42,725 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.05
+2025-01-12 02:03:42,909 - INFO - Generating sentence embeddings
+2025-01-12 02:03:49,775 - INFO - Generated sentence embeddings
+2025-01-12 02:03:49,775 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:03:53,757 - INFO - Best param found at split 1: l2reg = 0.001                 with score 82.65
+2025-01-12 02:03:58,416 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.65
+2025-01-12 02:04:02,698 - INFO - Best param found at split 3: l2reg = 0.01                 with score 82.65
+2025-01-12 02:04:07,488 - INFO - Best param found at split 4: l2reg = 0.001                 with score 83.21
+2025-01-12 02:04:11,914 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.55
+2025-01-12 02:04:12,077 - INFO - Generating sentence embeddings
+2025-01-12 02:04:18,909 - INFO - Generated sentence embeddings
+2025-01-12 02:04:18,909 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:04:21,596 - INFO - Best param found at split 1: l2reg = 0.001                 with score 82.45
+2025-01-12 02:04:24,758 - INFO - Best param found at split 2: l2reg = 0.01                 with score 83.08
+2025-01-12 02:04:27,307 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.45
+2025-01-12 02:04:30,953 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.88
+2025-01-12 02:04:33,811 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.52
+2025-01-12 02:04:33,986 - INFO - Generating sentence embeddings
+2025-01-12 02:04:40,813 - INFO - Generated sentence embeddings
+2025-01-12 02:04:40,813 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:04:43,328 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.15
+2025-01-12 02:04:46,448 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 83.01
+2025-01-12 02:04:49,457 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.34
+2025-01-12 02:04:52,014 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 82.65
+2025-01-12 02:04:55,225 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.81
+2025-01-12 02:04:55,427 - INFO - Generating sentence embeddings
+2025-01-12 02:05:02,084 - INFO - Generated sentence embeddings
+2025-01-12 02:05:02,084 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:05:05,614 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 75.43
+2025-01-12 02:05:08,559 - INFO - Best param found at split 2: l2reg = 0.01                 with score 74.87
+2025-01-12 02:05:11,844 - INFO - Best param found at split 3: l2reg = 0.001                 with score 74.57
+2025-01-12 02:05:14,953 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 75.2
+2025-01-12 02:05:17,809 - INFO - Best param found at split 5: l2reg = 0.01                 with score 75.3
+2025-01-12 02:05:17,946 - INFO - Generating sentence embeddings
+2025-01-12 02:05:24,744 - INFO - Generated sentence embeddings
+2025-01-12 02:05:24,745 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:05:29,748 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.3
+2025-01-12 02:05:34,416 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.37
+2025-01-12 02:05:39,190 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.17
+2025-01-12 02:05:44,148 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.24
+2025-01-12 02:05:49,108 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.97
+2025-01-12 02:05:49,337 - INFO - Generating sentence embeddings
+2025-01-12 02:05:56,189 - INFO - Generated sentence embeddings
+2025-01-12 02:05:56,189 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:05:59,947 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.15
+2025-01-12 02:06:03,096 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.62
+2025-01-12 02:06:06,923 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.28
+2025-01-12 02:06:10,344 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.08
+2025-01-12 02:06:12,267 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.42
+2025-01-12 02:06:12,361 - INFO - Generating sentence embeddings
+2025-01-12 02:06:19,165 - INFO - Generated sentence embeddings
+2025-01-12 02:06:19,166 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:06:21,035 - INFO - Best param found at split 1: l2reg = 0.01                 with score 72.81
+2025-01-12 02:06:23,237 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 72.28
+2025-01-12 02:06:25,341 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.71
+2025-01-12 02:06:27,505 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 74.17
+2025-01-12 02:06:29,423 - INFO - Best param found at split 5: l2reg = 0.01                 with score 72.65
+2025-01-12 02:06:29,520 - INFO - Generating sentence embeddings
+2025-01-12 02:06:36,302 - INFO - Generated sentence embeddings
+2025-01-12 02:06:36,303 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:06:39,269 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.53
+2025-01-12 02:06:42,016 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.64
+2025-01-12 02:06:44,840 - INFO - Best param found at split 3: l2reg = 0.001                 with score 84.5
+2025-01-12 02:06:47,711 - INFO - Best param found at split 4: l2reg = 0.001                 with score 84.3
+2025-01-12 02:06:50,634 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.97
+2025-01-12 02:06:50,761 - INFO - Generating sentence embeddings
+2025-01-12 02:06:57,589 - INFO - Generated sentence embeddings
+2025-01-12 02:06:57,589 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:06:59,836 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.18
+2025-01-12 02:07:01,855 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.72
+2025-01-12 02:07:04,388 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.51
+2025-01-12 02:07:07,040 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.05
+2025-01-12 02:07:09,359 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.69
+2025-01-12 02:07:09,475 - INFO - Generating sentence embeddings
+2025-01-12 02:07:16,201 - INFO - Generated sentence embeddings
+2025-01-12 02:07:16,202 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:07:18,256 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 74.24
+2025-01-12 02:07:20,244 - INFO - Best param found at split 2: l2reg = 0.01                 with score 74.27
+2025-01-12 02:07:22,312 - INFO - Best param found at split 3: l2reg = 0.01                 with score 74.64
+2025-01-12 02:07:24,655 - INFO - Best param found at split 4: l2reg = 0.01                 with score 75.56
+2025-01-12 02:07:26,778 - INFO - Best param found at split 5: l2reg = 0.01                 with score 74.93
+2025-01-12 02:07:27,102 - INFO - Generating sentence embeddings
+2025-01-12 02:07:33,828 - INFO - Generated sentence embeddings
+2025-01-12 02:07:33,828 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:07:35,818 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.58
+2025-01-12 02:07:37,688 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 83.28
+2025-01-12 02:07:39,697 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.81
+2025-01-12 02:07:42,415 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.77
+2025-01-12 02:07:44,754 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.01
+2025-01-12 02:07:44,851 - INFO - Generating sentence embeddings
+2025-01-12 02:07:51,561 - INFO - Generated sentence embeddings
+2025-01-12 02:07:51,562 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:07:53,785 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.84
+2025-01-12 02:07:56,962 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.04
+2025-01-12 02:08:00,933 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.58
+2025-01-12 02:08:04,577 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.31
+2025-01-12 02:08:08,335 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.88
+2025-01-12 02:08:08,497 - INFO - Generating sentence embeddings
+2025-01-12 02:08:15,344 - INFO - Generated sentence embeddings
+2025-01-12 02:08:15,344 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:08:18,492 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 79.7
+2025-01-12 02:08:21,972 - INFO - Best param found at split 2: l2reg = 0.01                 with score 79.8
+2025-01-12 02:08:25,963 - INFO - Best param found at split 3: l2reg = 0.01                 with score 80.43
+2025-01-12 02:08:29,738 - INFO - Best param found at split 4: l2reg = 0.001                 with score 79.21
+2025-01-12 02:08:33,510 - INFO - Best param found at split 5: l2reg = 0.01                 with score 79.5
+2025-01-12 02:08:33,687 - INFO - Generating sentence embeddings
+2025-01-12 02:08:40,525 - INFO - Generated sentence embeddings
+2025-01-12 02:08:40,525 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:08:44,224 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.71
+2025-01-12 02:08:48,593 - INFO - Best param found at split 2: l2reg = 0.001                 with score 83.77
+2025-01-12 02:08:52,225 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.15
+2025-01-12 02:08:56,760 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.41
+2025-01-12 02:09:00,742 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.21
+2025-01-12 02:09:00,920 - INFO - Generating sentence embeddings
+2025-01-12 02:09:07,714 - INFO - Generated sentence embeddings
+2025-01-12 02:09:07,714 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:09:11,349 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.77
+2025-01-12 02:09:15,289 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.07
+2025-01-12 02:09:18,992 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.71
+2025-01-12 02:09:21,945 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.41
+2025-01-12 02:09:24,845 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.85
+2025-01-12 02:09:24,968 - INFO - Generating sentence embeddings
+2025-01-12 02:09:31,855 - INFO - Generated sentence embeddings
+2025-01-12 02:09:31,855 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:09:35,232 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.4
+2025-01-12 02:09:38,301 - INFO - Best param found at split 2: l2reg = 0.01                 with score 79.54
+2025-01-12 02:09:41,954 - INFO - Best param found at split 3: l2reg = 0.01                 with score 80.13
+2025-01-12 02:09:45,786 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 79.6
+2025-01-12 02:09:49,009 - INFO - Best param found at split 5: l2reg = 0.01                 with score 79.07
+2025-01-12 02:09:49,177 - INFO - Generating sentence embeddings
+2025-01-12 02:09:56,016 - INFO - Generated sentence embeddings
+2025-01-12 02:09:56,016 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:09:59,977 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.6
+2025-01-12 02:10:04,357 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.03
+2025-01-12 02:10:08,777 - INFO - Best param found at split 3: l2reg = 0.001                 with score 85.89
+2025-01-12 02:10:12,322 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.83
+2025-01-12 02:10:15,682 - INFO - Best param found at split 5: l2reg = 0.001                 with score 85.33
+2025-01-12 02:10:15,830 - INFO - Generating sentence embeddings
+2025-01-12 02:10:22,528 - INFO - Generated sentence embeddings
+2025-01-12 02:10:22,528 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:10:24,867 - INFO - Best param found at split 1: l2reg = 0.001                 with score 85.53
+2025-01-12 02:10:27,333 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:10:30,402 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.99
+2025-01-12 02:10:33,244 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.56
+2025-01-12 02:10:36,073 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.33
+2025-01-12 02:10:36,211 - INFO - Generating sentence embeddings
+2025-01-12 02:10:43,061 - INFO - Generated sentence embeddings
+2025-01-12 02:10:43,061 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:10:45,785 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.56
+2025-01-12 02:10:49,183 - INFO - Best param found at split 2: l2reg = 0.001                 with score 85.4
+2025-01-12 02:10:52,079 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.63
+2025-01-12 02:10:55,969 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.23
+2025-01-12 02:10:58,934 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.74
+2025-01-12 02:10:59,095 - INFO - Generating sentence embeddings
+2025-01-12 02:11:06,051 - INFO - Generated sentence embeddings
+2025-01-12 02:11:06,052 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:11:08,560 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.96
+2025-01-12 02:11:11,221 - INFO - Best param found at split 2: l2reg = 0.001                 with score 85.23
+2025-01-12 02:11:13,837 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.4
+2025-01-12 02:11:17,022 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.26
+2025-01-12 02:11:20,179 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.36
+2025-01-12 02:11:20,322 - INFO - Generating sentence embeddings
+2025-01-12 02:11:27,079 - INFO - Generated sentence embeddings
+2025-01-12 02:11:27,079 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:11:29,484 - INFO - Best param found at split 1: l2reg = 0.01                 with score 82.98
+2025-01-12 02:11:31,545 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.69
+2025-01-12 02:11:33,576 - INFO - Best param found at split 3: l2reg = 0.01                 with score 81.29
+2025-01-12 02:11:36,201 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.48
+2025-01-12 02:11:38,470 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.02
+2025-01-12 02:11:38,595 - INFO - Generating sentence embeddings
+2025-01-12 02:11:45,553 - INFO - Generated sentence embeddings
+2025-01-12 02:11:45,554 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:11:48,096 - INFO - Best param found at split 1: l2reg = 0.001                 with score 87.48
+2025-01-12 02:11:50,980 - INFO - Best param found at split 2: l2reg = 0.01                 with score 86.89
+2025-01-12 02:11:53,689 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 86.99
+2025-01-12 02:11:56,591 - INFO - Best param found at split 4: l2reg = 0.01                 with score 86.69
+2025-01-12 02:11:59,629 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.56
+2025-01-12 02:11:59,725 - INFO - Generating sentence embeddings
+2025-01-12 02:12:06,399 - INFO - Generated sentence embeddings
+2025-01-12 02:12:06,399 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:12:08,577 - INFO - Best param found at split 1: l2reg = 0.001                 with score 86.19
+2025-01-12 02:12:10,705 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.86
+2025-01-12 02:12:13,216 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.36
+2025-01-12 02:12:16,333 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:12:18,963 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:12:19,045 - INFO - Generating sentence embeddings
+2025-01-12 02:12:25,873 - INFO - Generated sentence embeddings
+2025-01-12 02:12:25,874 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:12:28,214 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 78.68
+2025-01-12 02:12:31,263 - INFO - Best param found at split 2: l2reg = 0.01                 with score 78.05
+2025-01-12 02:12:34,289 - INFO - Best param found at split 3: l2reg = 0.001                 with score 80.43
+2025-01-12 02:12:37,328 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.89
+2025-01-12 02:12:40,409 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 78.25
+2025-01-12 02:12:40,554 - INFO - Generating sentence embeddings
+2025-01-12 02:12:47,495 - INFO - Generated sentence embeddings
+2025-01-12 02:12:47,495 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:12:51,978 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.52
+2025-01-12 02:12:56,691 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.05
+2025-01-12 02:13:01,637 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.22
+2025-01-12 02:13:06,548 - INFO - Best param found at split 4: l2reg = 0.001                 with score 86.79
+2025-01-12 02:13:11,860 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.92
+2025-01-12 02:13:12,009 - INFO - Generating sentence embeddings
+2025-01-12 02:13:18,840 - INFO - Generated sentence embeddings
+2025-01-12 02:13:18,840 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:13:21,965 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.93
+2025-01-12 02:13:25,003 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.86
+2025-01-12 02:13:28,337 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:13:31,382 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.93
+2025-01-12 02:13:34,461 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.64
+2025-01-12 02:13:34,593 - INFO - Generating sentence embeddings
+2025-01-12 02:13:41,222 - INFO - Generated sentence embeddings
+2025-01-12 02:13:41,222 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:13:44,484 - INFO - Best param found at split 1: l2reg = 0.01                 with score 78.58
+2025-01-12 02:13:47,165 - INFO - Best param found at split 2: l2reg = 0.001                 with score 78.28
+2025-01-12 02:13:49,875 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.33
+2025-01-12 02:13:52,528 - INFO - Best param found at split 4: l2reg = 0.0001                 with score 78.91
+2025-01-12 02:13:54,957 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 79.04
+2025-01-12 02:13:55,080 - INFO - Generating sentence embeddings
+2025-01-12 02:14:01,930 - INFO - Generated sentence embeddings
+2025-01-12 02:14:01,931 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:14:03,786 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.49
+2025-01-12 02:14:06,041 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.66
+2025-01-12 02:14:08,324 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.79
+2025-01-12 02:14:10,773 - INFO - Best param found at split 4: l2reg = 0.001                 with score 86.26
+2025-01-12 02:14:12,934 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.96
+2025-01-12 02:14:13,034 - INFO - Generating sentence embeddings
+2025-01-12 02:14:19,770 - INFO - Generated sentence embeddings
+2025-01-12 02:14:19,771 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:14:21,670 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.99
+2025-01-12 02:14:24,070 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.79
+2025-01-12 02:14:26,366 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.46
+2025-01-12 02:14:28,427 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.13
+2025-01-12 02:14:30,837 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.13
+2025-01-12 02:14:31,036 - INFO - Generating sentence embeddings
+2025-01-12 02:14:37,712 - INFO - Generated sentence embeddings
+2025-01-12 02:14:37,712 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:14:39,876 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.84
+2025-01-12 02:14:42,163 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.6
+2025-01-12 02:14:45,580 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.58
+2025-01-12 02:14:49,291 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.91
+2025-01-12 02:14:52,556 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.44
+2025-01-12 02:14:52,756 - INFO - Generating sentence embeddings
+2025-01-12 02:14:59,778 - INFO - Generated sentence embeddings
+2025-01-12 02:14:59,778 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:15:01,690 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.49
+2025-01-12 02:15:04,198 - INFO - Best param found at split 2: l2reg = 0.01                 with score 86.59
+2025-01-12 02:15:06,239 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.99
+2025-01-12 02:15:08,490 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.89
+2025-01-12 02:15:11,029 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.06
+2025-01-12 02:15:11,135 - INFO - Generating sentence embeddings
+2025-01-12 02:15:17,757 - INFO - Generated sentence embeddings
+2025-01-12 02:15:17,757 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:15:19,904 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.06
+2025-01-12 02:15:21,853 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.46
+2025-01-12 02:15:23,954 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.56
+2025-01-12 02:15:26,210 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.0
+2025-01-12 02:15:28,525 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.17
+2025-01-12 02:15:28,639 - INFO - Generating sentence embeddings
+2025-01-12 02:15:35,523 - INFO - Generated sentence embeddings
+2025-01-12 02:15:35,523 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:15:37,567 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.01
+2025-01-12 02:15:39,962 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.7
+2025-01-12 02:15:42,374 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.34
+2025-01-12 02:15:45,282 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.84
+2025-01-12 02:15:47,671 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.71
+2025-01-12 02:15:47,808 - INFO - Generating sentence embeddings
+2025-01-12 02:15:54,635 - INFO - Generated sentence embeddings
+2025-01-12 02:15:54,635 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:15:56,674 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.19
+2025-01-12 02:15:59,050 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.62
+2025-01-12 02:16:01,492 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.22
+2025-01-12 02:16:03,842 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.09
+2025-01-12 02:16:06,036 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.52
+2025-01-12 02:16:06,202 - INFO - Generating sentence embeddings
+2025-01-12 02:16:13,013 - INFO - Generated sentence embeddings
+2025-01-12 02:16:13,014 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:16:15,854 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.55
+2025-01-12 02:16:18,130 - INFO - Best param found at split 2: l2reg = 0.01                 with score 86.82
+2025-01-12 02:16:20,639 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.45
+2025-01-12 02:16:23,542 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.32
+2025-01-12 02:16:25,900 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.99
+2025-01-12 02:16:26,026 - INFO - Generating sentence embeddings
+2025-01-12 02:16:33,069 - INFO - Generated sentence embeddings
+2025-01-12 02:16:33,069 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:16:35,182 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.58
+2025-01-12 02:16:37,754 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.35
+2025-01-12 02:16:40,530 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.15
+2025-01-12 02:16:43,862 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.45
+2025-01-12 02:16:47,158 - INFO - Best param found at split 5: l2reg = 0.001                 with score 87.05
+2025-01-12 02:16:47,323 - INFO - Generating sentence embeddings
+2025-01-12 02:16:54,057 - INFO - Generated sentence embeddings
+2025-01-12 02:16:54,058 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:16:56,359 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.19
+2025-01-12 02:16:59,137 - INFO - Best param found at split 2: l2reg = 0.001                 with score 87.68
+2025-01-12 02:17:01,610 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.19
+2025-01-12 02:17:04,713 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.92
+2025-01-12 02:17:07,408 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.52
+2025-01-12 02:17:07,563 - INFO - Generating sentence embeddings
+2025-01-12 02:17:14,506 - INFO - Generated sentence embeddings
+2025-01-12 02:17:14,507 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:17:18,371 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.79
+2025-01-12 02:17:20,999 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.9
+2025-01-12 02:17:23,521 - INFO - Best param found at split 3: l2reg = 0.001                 with score 85.33
+2025-01-12 02:17:26,325 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.17
+2025-01-12 02:17:29,820 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:17:29,957 - INFO - Generating sentence embeddings
+2025-01-12 02:17:37,028 - INFO - Generated sentence embeddings
+2025-01-12 02:17:37,028 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:17:39,569 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.78
+2025-01-12 02:17:42,471 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.38
+2025-01-12 02:17:45,541 - INFO - Best param found at split 3: l2reg = 0.001                 with score 87.38
+2025-01-12 02:17:48,349 - INFO - Best param found at split 4: l2reg = 0.01                 with score 86.66
+2025-01-12 02:17:51,511 - INFO - Best param found at split 5: l2reg = 0.001                 with score 86.72
+2025-01-12 02:17:51,609 - INFO - Generating sentence embeddings
+2025-01-12 02:17:58,280 - INFO - Generated sentence embeddings
+2025-01-12 02:17:58,280 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:18:00,400 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.46
+2025-01-12 02:18:02,337 - INFO - Best param found at split 2: l2reg = 0.001                 with score 85.36
+2025-01-12 02:18:04,634 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.0
+2025-01-12 02:18:07,314 - INFO - Best param found at split 4: l2reg = 0.0001                 with score 85.13
+2025-01-12 02:18:09,612 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:18:09,742 - INFO - Generating sentence embeddings
+2025-01-12 02:18:16,736 - INFO - Generated sentence embeddings
+2025-01-12 02:18:16,736 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:18:19,127 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 79.83
+2025-01-12 02:18:21,658 - INFO - Best param found at split 2: l2reg = 0.01                 with score 79.93
+2025-01-12 02:18:24,805 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.73
+2025-01-12 02:18:27,681 - INFO - Best param found at split 4: l2reg = 0.001                 with score 80.66
+2025-01-12 02:18:31,026 - INFO - Best param found at split 5: l2reg = 0.01                 with score 81.09
+2025-01-12 02:18:31,163 - INFO - Generating sentence embeddings
+2025-01-12 02:18:37,781 - INFO - Generated sentence embeddings
+2025-01-12 02:18:37,781 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:18:40,376 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.85
+2025-01-12 02:18:43,159 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.38
+2025-01-12 02:18:46,175 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.32
+2025-01-12 02:18:49,343 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.89
+2025-01-12 02:18:52,022 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.66
+2025-01-12 02:18:52,114 - INFO - Generating sentence embeddings
+2025-01-12 02:18:58,876 - INFO - Generated sentence embeddings
+2025-01-12 02:18:58,876 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:19:00,781 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.23
+2025-01-12 02:19:02,986 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.23
+2025-01-12 02:19:05,153 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:19:07,289 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.87
+2025-01-12 02:19:09,318 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:19:09,402 - INFO - Generating sentence embeddings
+2025-01-12 02:19:16,316 - INFO - Generated sentence embeddings
+2025-01-12 02:19:16,316 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:19:18,866 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.36
+2025-01-12 02:19:21,366 - INFO - Best param found at split 2: l2reg = 0.01                 with score 80.33
+2025-01-12 02:19:24,253 - INFO - Best param found at split 3: l2reg = 0.01                 with score 81.29
+2025-01-12 02:19:27,731 - INFO - Best param found at split 4: l2reg = 0.001                 with score 81.56
+2025-01-12 02:19:30,916 - INFO - Best param found at split 5: l2reg = 0.001                 with score 80.83
+2025-01-12 02:19:31,046 - INFO - Generating sentence embeddings
+2025-01-12 02:19:37,808 - INFO - Generated sentence embeddings
+2025-01-12 02:19:37,808 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:19:40,339 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.85
+2025-01-12 02:19:43,288 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.48
+2025-01-12 02:19:46,040 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.09
+2025-01-12 02:19:48,393 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.75
+2025-01-12 02:19:51,489 - INFO - Best param found at split 5: l2reg = 0.01                 with score 87.42
+2025-01-12 02:19:51,591 - INFO - Generating sentence embeddings
+2025-01-12 02:19:58,296 - INFO - Generated sentence embeddings
+2025-01-12 02:19:58,296 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:20:00,630 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.16
+2025-01-12 02:20:02,972 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.99
+2025-01-12 02:20:05,286 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.17
+2025-01-12 02:20:08,094 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.26
+2025-01-12 02:20:10,299 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.33
+2025-01-12 02:20:10,386 - INFO - Generating sentence embeddings
+2025-01-12 02:20:17,203 - INFO - Generated sentence embeddings
+2025-01-12 02:20:17,204 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:20:19,602 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.06
+2025-01-12 02:20:22,136 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.4
+2025-01-12 02:20:25,296 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.46
+2025-01-12 02:20:28,049 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.2
+2025-01-12 02:20:32,179 - INFO - Best param found at split 5: l2reg = 0.01                 with score 84.83
+2025-01-12 02:20:32,309 - INFO - Generating sentence embeddings
+2025-01-12 02:20:39,189 - INFO - Generated sentence embeddings
+2025-01-12 02:20:39,189 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:20:41,681 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.81
+2025-01-12 02:20:44,379 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.38
+2025-01-12 02:20:47,384 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.15
+2025-01-12 02:20:49,881 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.05
+2025-01-12 02:20:52,662 - INFO - Best param found at split 5: l2reg = 0.01                 with score 87.42
+2025-01-12 02:20:52,779 - INFO - Generating sentence embeddings
+2025-01-12 02:20:59,778 - INFO - Generated sentence embeddings
+2025-01-12 02:20:59,778 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:21:01,841 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.13
+2025-01-12 02:21:04,470 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.79
+2025-01-12 02:21:07,052 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.03
+2025-01-12 02:21:09,304 - INFO - Best param found at split 4: l2reg = 0.001                 with score 85.33
+2025-01-12 02:21:11,903 - INFO - Best param found at split 5: l2reg = 0.001                 with score 85.2
+2025-01-12 02:21:11,991 - INFO - Generating sentence embeddings
+2025-01-12 02:21:18,770 - INFO - Generated sentence embeddings
+2025-01-12 02:21:18,770 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:21:21,332 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.26
+2025-01-12 02:21:23,981 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.7
+2025-01-12 02:21:27,049 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.76
+2025-01-12 02:21:29,916 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.2
+2025-01-12 02:21:33,009 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.36
+2025-01-12 02:21:33,139 - INFO - Generating sentence embeddings
+2025-01-12 02:21:39,926 - INFO - Generated sentence embeddings
+2025-01-12 02:21:39,926 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:21:42,423 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.34
+2025-01-12 02:21:44,906 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.35
+2025-01-12 02:21:47,356 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.32
+2025-01-12 02:21:50,272 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.28
+2025-01-12 02:21:53,035 - INFO - Best param found at split 5: l2reg = 0.01                 with score 87.12
+2025-01-12 02:21:53,168 - INFO - Generating sentence embeddings
+2025-01-12 02:22:00,058 - INFO - Generated sentence embeddings
+2025-01-12 02:22:00,059 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:22:02,495 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.05
+2025-01-12 02:22:05,036 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.58
+2025-01-12 02:22:07,899 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.32
+2025-01-12 02:22:10,643 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.12
+2025-01-12 02:22:13,449 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.42
+2025-01-12 02:22:13,571 - INFO - Generating sentence embeddings
+2025-01-12 02:22:20,396 - INFO - Generated sentence embeddings
+2025-01-12 02:22:20,397 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:22:23,172 - INFO - Best param found at split 1: l2reg = 0.01                 with score 88.61
+2025-01-12 02:22:26,522 - INFO - Best param found at split 2: l2reg = 0.01                 with score 88.28
+2025-01-12 02:22:29,777 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.75
+2025-01-12 02:22:33,611 - INFO - Best param found at split 4: l2reg = 0.01                 with score 88.31
+2025-01-12 02:22:36,406 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.42
+2025-01-12 02:22:36,587 - INFO - Generating sentence embeddings
+2025-01-12 02:22:43,439 - INFO - Generated sentence embeddings
+2025-01-12 02:22:43,439 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:22:45,731 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.15
+2025-01-12 02:22:48,482 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.88
+2025-01-12 02:22:50,863 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.85
+2025-01-12 02:22:53,297 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.58
+2025-01-12 02:22:55,943 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.22
+2025-01-12 02:22:56,086 - INFO - Generating sentence embeddings
+2025-01-12 02:23:03,021 - INFO - Generated sentence embeddings
+2025-01-12 02:23:03,022 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:23:05,296 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.96
+2025-01-12 02:23:07,663 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.83
+2025-01-12 02:23:10,791 - INFO - Best param found at split 3: l2reg = 0.001                 with score 85.73
+2025-01-12 02:23:13,448 - INFO - Best param found at split 4: l2reg = 0.001                 with score 85.4
+2025-01-12 02:23:16,009 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.03
+2025-01-12 02:23:16,121 - INFO - Generating sentence embeddings
+2025-01-12 02:23:22,998 - INFO - Generated sentence embeddings
+2025-01-12 02:23:22,998 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:23:25,525 - INFO - Best param found at split 1: l2reg = 0.0001                 with score 87.58
+2025-01-12 02:23:28,354 - INFO - Best param found at split 2: l2reg = 0.001                 with score 86.92
+2025-01-12 02:23:31,558 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 86.62
+2025-01-12 02:23:34,243 - INFO - Best param found at split 4: l2reg = 0.001                 with score 86.06
+2025-01-12 02:23:37,522 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.36
+2025-01-12 02:23:37,618 - INFO - Generating sentence embeddings
+2025-01-12 02:23:44,426 - INFO - Generated sentence embeddings
+2025-01-12 02:23:44,427 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:23:46,397 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.23
+2025-01-12 02:23:48,439 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.93
+2025-01-12 02:23:50,876 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.07
+2025-01-12 02:23:53,194 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.54
+2025-01-12 02:23:55,360 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.17
+2025-01-12 02:23:55,466 - INFO - Generating sentence embeddings
+2025-01-12 02:24:02,375 - INFO - Generated sentence embeddings
+2025-01-12 02:24:02,376 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:24:04,801 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.6
+2025-01-12 02:24:07,851 - INFO - Best param found at split 2: l2reg = 0.01                 with score 80.79
+2025-01-12 02:24:10,757 - INFO - Best param found at split 3: l2reg = 0.01                 with score 80.79
+2025-01-12 02:24:13,577 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.2
+2025-01-12 02:24:16,618 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.13
+2025-01-12 02:24:16,888 - INFO - Generating sentence embeddings
+2025-01-12 02:24:23,856 - INFO - Generated sentence embeddings
+2025-01-12 02:24:23,856 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:24:26,459 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.85
+2025-01-12 02:24:29,195 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.92
+2025-01-12 02:24:32,227 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.59
+2025-01-12 02:24:35,269 - INFO - Best param found at split 4: l2reg = 0.01                 with score 86.06
+2025-01-12 02:24:38,078 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.32
+2025-01-12 02:24:38,181 - INFO - Generating sentence embeddings
+2025-01-12 02:24:45,068 - INFO - Generated sentence embeddings
+2025-01-12 02:24:45,068 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:24:47,369 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.63
+2025-01-12 02:24:49,590 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.76
+2025-01-12 02:24:52,054 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.26
+2025-01-12 02:24:54,219 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.34
+2025-01-12 02:24:56,715 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:24:56,812 - INFO - Generating sentence embeddings
+2025-01-12 02:25:03,618 - INFO - Generated sentence embeddings
+2025-01-12 02:25:03,618 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:25:05,850 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.43
+2025-01-12 02:25:08,505 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 79.74
+2025-01-12 02:25:11,627 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.76
+2025-01-12 02:25:14,409 - INFO - Best param found at split 4: l2reg = 0.01                 with score 80.96
+2025-01-12 02:25:17,535 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.69
+2025-01-12 02:25:17,657 - INFO - Generating sentence embeddings
+2025-01-12 02:25:24,465 - INFO - Generated sentence embeddings
+2025-01-12 02:25:24,465 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:25:27,281 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.98
+2025-01-12 02:25:29,950 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.25
+2025-01-12 02:25:32,599 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.72
+2025-01-12 02:25:35,700 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.05
+2025-01-12 02:25:38,168 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.36
+2025-01-12 02:25:38,294 - INFO - Generating sentence embeddings
+2025-01-12 02:25:45,204 - INFO - Generated sentence embeddings
+2025-01-12 02:25:45,204 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:25:47,200 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.13
+2025-01-12 02:25:49,266 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.5
+2025-01-12 02:25:51,859 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:25:53,979 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.44
+2025-01-12 02:25:56,556 - INFO - Best param found at split 5: l2reg = 0.01                 with score 84.77
+2025-01-12 02:25:56,657 - INFO - Generating sentence embeddings
+2025-01-12 02:26:03,494 - INFO - Generated sentence embeddings
+2025-01-12 02:26:03,494 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:26:05,750 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.03
+2025-01-12 02:26:08,660 - INFO - Best param found at split 2: l2reg = 0.001                 with score 85.86
+2025-01-12 02:26:11,402 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.46
+2025-01-12 02:26:14,139 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.66
+2025-01-12 02:26:17,146 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.9
+2025-01-12 02:26:17,256 - INFO - Generating sentence embeddings
+2025-01-12 02:26:24,042 - INFO - Generated sentence embeddings
+2025-01-12 02:26:24,042 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:26:26,519 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.91
+2025-01-12 02:26:28,912 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.25
+2025-01-12 02:26:32,168 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.72
+2025-01-12 02:26:34,958 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.25
+2025-01-12 02:26:37,666 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.72
+2025-01-12 02:26:37,759 - INFO - Generating sentence embeddings
+2025-01-12 02:26:44,625 - INFO - Generated sentence embeddings
+2025-01-12 02:26:44,626 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:26:46,944 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.2
+2025-01-12 02:26:49,244 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.43
+2025-01-12 02:26:51,425 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.83
+2025-01-12 02:26:53,739 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.44
+2025-01-12 02:26:56,522 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.54
+2025-01-12 02:26:56,617 - INFO - Generating sentence embeddings
+2025-01-12 02:27:03,387 - INFO - Generated sentence embeddings
+2025-01-12 02:27:03,387 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:27:05,594 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.09
+2025-01-12 02:27:07,832 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.7
+2025-01-12 02:27:10,678 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.46
+2025-01-12 02:27:13,660 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.43
+2025-01-12 02:27:16,278 - INFO - Best param found at split 5: l2reg = 0.001                 with score 85.1
+2025-01-12 02:27:16,396 - INFO - Generating sentence embeddings
+2025-01-12 02:27:23,419 - INFO - Generated sentence embeddings
+2025-01-12 02:27:23,419 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:27:25,986 - INFO - Best param found at split 1: l2reg = 0.01                 with score 88.25
+2025-01-12 02:27:28,884 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.25
+2025-01-12 02:27:31,168 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.79
+2025-01-12 02:27:33,826 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.56
+2025-01-12 02:27:37,047 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.85
+2025-01-12 02:27:37,164 - INFO - Generating sentence embeddings
+2025-01-12 02:27:43,906 - INFO - Generated sentence embeddings
+2025-01-12 02:27:43,907 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:27:46,354 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.98
+2025-01-12 02:27:48,955 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.99
+2025-01-12 02:27:52,252 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.25
+2025-01-12 02:27:54,855 - INFO - Best param found at split 4: l2reg = 0.001                 with score 86.79
+2025-01-12 02:27:57,213 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.05
+2025-01-12 02:27:57,325 - INFO - Generating sentence embeddings
+2025-01-12 02:28:04,156 - INFO - Generated sentence embeddings
+2025-01-12 02:28:04,157 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:28:06,752 - INFO - Best param found at split 1: l2reg = 0.001                 with score 88.31
+2025-01-12 02:28:09,557 - INFO - Best param found at split 2: l2reg = 0.001                 with score 87.38
+2025-01-12 02:28:12,125 - INFO - Best param found at split 3: l2reg = 0.001                 with score 87.98
+2025-01-12 02:28:15,114 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.58
+2025-01-12 02:28:17,975 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.28
+2025-01-12 02:28:18,128 - INFO - Generating sentence embeddings
+2025-01-12 02:28:25,128 - INFO - Generated sentence embeddings
+2025-01-12 02:28:25,128 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:28:27,935 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.15
+2025-01-12 02:28:31,129 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 88.01
+2025-01-12 02:28:33,628 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.52
+2025-01-12 02:28:36,449 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.58
+2025-01-12 02:28:39,407 - INFO - Best param found at split 5: l2reg = 0.0001                 with score 86.79
+2025-01-12 02:28:39,638 - INFO - Generating sentence embeddings
+2025-01-12 02:28:46,312 - INFO - Generated sentence embeddings
+2025-01-12 02:28:46,312 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:28:48,608 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.97
+2025-01-12 02:28:50,728 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.57
+2025-01-12 02:28:53,538 - INFO - Best param found at split 3: l2reg = 0.01                 with score 84.9
+2025-01-12 02:28:56,238 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.87
+2025-01-12 02:28:58,356 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.94
+2025-01-12 02:28:58,450 - INFO - Generating sentence embeddings
+2025-01-12 02:29:05,313 - INFO - Generated sentence embeddings
+2025-01-12 02:29:05,313 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:29:07,648 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.32
+2025-01-12 02:29:10,006 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.76
+2025-01-12 02:29:13,110 - INFO - Best param found at split 3: l2reg = 0.001                 with score 85.89
+2025-01-12 02:29:15,912 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.5
+2025-01-12 02:29:18,606 - INFO - Best param found at split 5: l2reg = 0.001                 with score 85.0
+2025-01-12 02:29:18,732 - INFO - Generating sentence embeddings
+2025-01-12 02:29:25,521 - INFO - Generated sentence embeddings
+2025-01-12 02:29:25,521 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:29:27,719 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.34
+2025-01-12 02:29:29,871 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.87
+2025-01-12 02:29:32,140 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.07
+2025-01-12 02:29:34,434 - INFO - Best param found at split 4: l2reg = 0.01                 with score 83.87
+2025-01-12 02:29:36,756 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.27
+2025-01-12 02:29:36,829 - INFO - Generating sentence embeddings
+2025-01-12 02:29:43,638 - INFO - Generated sentence embeddings
+2025-01-12 02:29:43,638 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:29:44,956 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 72.15
+2025-01-12 02:29:46,272 - INFO - Best param found at split 2: l2reg = 0.001                 with score 70.43
+2025-01-12 02:29:47,717 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.21
+2025-01-12 02:29:49,264 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 72.05
+2025-01-12 02:29:51,249 - INFO - Best param found at split 5: l2reg = 0.01                 with score 73.28
+2025-01-12 02:29:51,357 - INFO - Generating sentence embeddings
+2025-01-12 02:29:58,150 - INFO - Generated sentence embeddings
+2025-01-12 02:29:58,150 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:30:00,662 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.96
+2025-01-12 02:30:03,022 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.53
+2025-01-12 02:30:05,970 - INFO - Best param found at split 3: l2reg = 0.001                 with score 86.29
+2025-01-12 02:30:09,087 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:30:11,989 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.23
+2025-01-12 02:30:12,105 - INFO - Generating sentence embeddings
+2025-01-12 02:30:18,881 - INFO - Generated sentence embeddings
+2025-01-12 02:30:18,882 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:30:20,859 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.34
+2025-01-12 02:30:23,171 - INFO - Best param found at split 2: l2reg = 0.0001                 with score 84.8
+2025-01-12 02:30:25,291 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.14
+2025-01-12 02:30:27,487 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.74
+2025-01-12 02:30:29,781 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.07
+2025-01-12 02:30:29,902 - INFO - Generating sentence embeddings
+2025-01-12 02:30:36,966 - INFO - Generated sentence embeddings
+2025-01-12 02:30:36,967 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:30:38,348 - INFO - Best param found at split 1: l2reg = 0.0001                 with score 71.46
+2025-01-12 02:30:40,336 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 73.84
+2025-01-12 02:30:42,017 - INFO - Best param found at split 3: l2reg = 0.01                 with score 75.26
+2025-01-12 02:30:43,611 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 71.46
+2025-01-12 02:30:45,271 - INFO - Best param found at split 5: l2reg = 0.001                 with score 71.72
+2025-01-12 02:30:45,373 - INFO - Generating sentence embeddings
+2025-01-12 02:30:52,178 - INFO - Generated sentence embeddings
+2025-01-12 02:30:52,178 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:30:54,384 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.12
+2025-01-12 02:30:56,698 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.66
+2025-01-12 02:30:59,211 - INFO - Best param found at split 3: l2reg = 0.001                 with score 87.12
+2025-01-12 02:31:01,551 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.19
+2025-01-12 02:31:04,196 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.16
+2025-01-12 02:31:04,295 - INFO - Generating sentence embeddings
+2025-01-12 02:31:11,215 - INFO - Generated sentence embeddings
+2025-01-12 02:31:11,215 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:31:13,421 - INFO - Best param found at split 1: l2reg = 0.001                 with score 85.5
+2025-01-12 02:31:15,602 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.66
+2025-01-12 02:31:17,859 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.57
+2025-01-12 02:31:20,441 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.94
+2025-01-12 02:31:22,851 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.87
+2025-01-12 02:31:22,963 - INFO - Generating sentence embeddings
+2025-01-12 02:31:29,765 - INFO - Generated sentence embeddings
+2025-01-12 02:31:29,766 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:31:31,919 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.83
+2025-01-12 02:31:34,183 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.4
+2025-01-12 02:31:37,062 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.46
+2025-01-12 02:31:40,014 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.1
+2025-01-12 02:31:43,244 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.26
+2025-01-12 02:31:43,400 - INFO - Generating sentence embeddings
+2025-01-12 02:31:50,216 - INFO - Generated sentence embeddings
+2025-01-12 02:31:50,216 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:31:52,622 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.95
+2025-01-12 02:31:54,931 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.02
+2025-01-12 02:31:57,482 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.09
+2025-01-12 02:32:00,239 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.96
+2025-01-12 02:32:02,861 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.13
+2025-01-12 02:32:02,958 - INFO - Generating sentence embeddings
+2025-01-12 02:32:09,894 - INFO - Generated sentence embeddings
+2025-01-12 02:32:09,894 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:32:11,951 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.36
+2025-01-12 02:32:14,190 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.33
+2025-01-12 02:32:16,662 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.37
+2025-01-12 02:32:19,138 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.84
+2025-01-12 02:32:21,672 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.94
+2025-01-12 02:32:21,827 - INFO - Generating sentence embeddings
+2025-01-12 02:32:28,625 - INFO - Generated sentence embeddings
+2025-01-12 02:32:28,625 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:32:31,029 - INFO - Best param found at split 1: l2reg = 0.001                 with score 85.89
+2025-01-12 02:32:33,392 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.53
+2025-01-12 02:32:35,977 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.73
+2025-01-12 02:32:38,942 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.23
+2025-01-12 02:32:41,704 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.23
+2025-01-12 02:32:41,811 - INFO - Generating sentence embeddings
+2025-01-12 02:32:48,679 - INFO - Generated sentence embeddings
+2025-01-12 02:32:48,679 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:32:51,250 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.69
+2025-01-12 02:32:55,012 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.86
+2025-01-12 02:32:59,316 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.19
+2025-01-12 02:33:03,875 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.83
+2025-01-12 02:33:07,597 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.76
+2025-01-12 02:33:07,740 - INFO - Generating sentence embeddings
+2025-01-12 02:33:14,694 - INFO - Generated sentence embeddings
+2025-01-12 02:33:14,694 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:33:16,910 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.95
+2025-01-12 02:33:19,588 - INFO - Best param found at split 2: l2reg = 0.0001                 with score 86.46
+2025-01-12 02:33:21,912 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.26
+2025-01-12 02:33:25,214 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.99
+2025-01-12 02:33:28,718 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.7
+2025-01-12 02:33:28,875 - INFO - Generating sentence embeddings
+2025-01-12 02:33:35,662 - INFO - Generated sentence embeddings
+2025-01-12 02:33:35,662 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:33:38,554 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.32
+2025-01-12 02:33:42,134 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.05
+2025-01-12 02:33:46,228 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.19
+2025-01-12 02:33:49,007 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.06
+2025-01-12 02:33:52,252 - INFO - Best param found at split 5: l2reg = 0.001                 with score 86.46
+2025-01-12 02:33:52,534 - INFO - Generating sentence embeddings
+2025-01-12 02:33:59,352 - INFO - Generated sentence embeddings
+2025-01-12 02:33:59,352 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:34:02,510 - INFO - Best param found at split 1: l2reg = 0.001                 with score 87.68
+2025-01-12 02:34:07,713 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.19
+2025-01-12 02:34:10,830 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.22
+2025-01-12 02:34:15,830 - INFO - Best param found at split 4: l2reg = 0.01                 with score 86.56
+2025-01-12 02:34:19,458 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.39
+2025-01-12 02:34:19,641 - INFO - Generating sentence embeddings
+2025-01-12 02:34:26,513 - INFO - Generated sentence embeddings
+2025-01-12 02:34:26,513 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:34:28,765 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.22
+2025-01-12 02:34:31,124 - INFO - Best param found at split 2: l2reg = 0.01                 with score 86.75
+2025-01-12 02:34:33,452 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.23
+2025-01-12 02:34:35,747 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.96
+2025-01-12 02:34:38,182 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.59
+2025-01-12 02:34:38,286 - INFO - Generating sentence embeddings
+2025-01-12 02:34:45,080 - INFO - Generated sentence embeddings
+2025-01-12 02:34:45,080 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:34:47,209 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.95
+2025-01-12 02:34:49,290 - INFO - Best param found at split 2: l2reg = 0.001                 with score 87.91
+2025-01-12 02:34:51,416 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.32
+2025-01-12 02:34:53,496 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.19
+2025-01-12 02:34:55,971 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.89
+2025-01-12 02:34:56,060 - INFO - Generating sentence embeddings
+2025-01-12 02:35:02,793 - INFO - Generated sentence embeddings
+2025-01-12 02:35:02,793 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:35:04,644 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.44
+2025-01-12 02:35:06,530 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.77
+2025-01-12 02:35:08,437 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.11
+2025-01-12 02:35:10,553 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.48
+2025-01-12 02:35:12,791 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.97
+2025-01-12 02:35:12,889 - INFO - Generating sentence embeddings
+2025-01-12 02:35:19,784 - INFO - Generated sentence embeddings
+2025-01-12 02:35:19,785 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:35:22,593 - INFO - Best param found at split 1: l2reg = 0.01                 with score 78.71
+2025-01-12 02:35:25,278 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 78.38
+2025-01-12 02:35:28,998 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.7
+2025-01-12 02:35:32,331 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 79.64
+2025-01-12 02:35:35,672 - INFO - Best param found at split 5: l2reg = 0.01                 with score 79.04
+2025-01-12 02:35:35,811 - INFO - Generating sentence embeddings
+2025-01-12 02:35:42,506 - INFO - Generated sentence embeddings
+2025-01-12 02:35:42,506 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:35:44,590 - INFO - Best param found at split 1: l2reg = 0.01                 with score 88.11
+2025-01-12 02:35:46,461 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.65
+2025-01-12 02:35:48,396 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.19
+2025-01-12 02:35:50,869 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.55
+2025-01-12 02:35:53,071 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.99
+2025-01-12 02:35:53,149 - INFO - Generating sentence embeddings
+2025-01-12 02:36:00,167 - INFO - Generated sentence embeddings
+2025-01-12 02:36:00,168 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:36:01,886 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.34
+2025-01-12 02:36:03,690 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.6
+2025-01-12 02:36:05,568 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.04
+2025-01-12 02:36:07,980 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.48
+2025-01-12 02:36:09,807 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.94
+2025-01-12 02:36:09,885 - INFO - Generating sentence embeddings
+2025-01-12 02:36:16,689 - INFO - Generated sentence embeddings
+2025-01-12 02:36:16,689 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:36:19,418 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 79.47
+2025-01-12 02:36:22,267 - INFO - Best param found at split 2: l2reg = 0.01                 with score 79.24
+2025-01-12 02:36:25,996 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.53
+2025-01-12 02:36:29,229 - INFO - Best param found at split 4: l2reg = 0.01                 with score 79.14
+2025-01-12 02:36:32,563 - INFO - Best param found at split 5: l2reg = 0.01                 with score 79.37
+2025-01-12 02:36:32,682 - INFO - Generating sentence embeddings
+2025-01-12 02:36:39,577 - INFO - Generated sentence embeddings
+2025-01-12 02:36:39,577 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:36:41,548 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.91
+2025-01-12 02:36:43,710 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.62
+2025-01-12 02:36:45,948 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.22
+2025-01-12 02:36:48,666 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.99
+2025-01-12 02:36:51,057 - INFO - Best param found at split 5: l2reg = 0.01                 with score 87.25
+2025-01-12 02:36:51,162 - INFO - Generating sentence embeddings
+2025-01-12 02:36:58,160 - INFO - Generated sentence embeddings
+2025-01-12 02:36:58,160 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:36:59,988 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.56
+2025-01-12 02:37:01,853 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.5
+2025-01-12 02:37:03,999 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.47
+2025-01-12 02:37:05,989 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.24
+2025-01-12 02:37:07,892 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.11
+2025-01-12 02:37:07,984 - INFO - Generating sentence embeddings
+2025-01-12 02:37:14,821 - INFO - Generated sentence embeddings
+2025-01-12 02:37:14,822 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:37:17,160 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.79
+2025-01-12 02:37:20,242 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.06
+2025-01-12 02:37:23,209 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.4
+2025-01-12 02:37:25,896 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.3
+2025-01-12 02:37:29,345 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.26
+2025-01-12 02:37:29,459 - INFO - Generating sentence embeddings
+2025-01-12 02:37:36,378 - INFO - Generated sentence embeddings
+2025-01-12 02:37:36,378 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:37:38,573 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.01
+2025-01-12 02:37:40,974 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.78
+2025-01-12 02:37:43,740 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.28
+2025-01-12 02:37:46,215 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.05
+2025-01-12 02:37:48,804 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.38
+2025-01-12 02:37:48,912 - INFO - Generating sentence embeddings
+2025-01-12 02:37:55,695 - INFO - Generated sentence embeddings
+2025-01-12 02:37:55,695 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:37:57,791 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.3
+2025-01-12 02:38:00,259 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.54
+2025-01-12 02:38:02,366 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.74
+2025-01-12 02:38:04,541 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.87
+2025-01-12 02:38:07,010 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.87
+2025-01-12 02:38:07,167 - INFO - Generating sentence embeddings
+2025-01-12 02:38:13,944 - INFO - Generated sentence embeddings
+2025-01-12 02:38:13,944 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:38:18,613 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.89
+2025-01-12 02:38:24,065 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.79
+2025-01-12 02:38:29,502 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.46
+2025-01-12 02:38:34,446 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.2
+2025-01-12 02:38:39,256 - INFO - Best param found at split 5: l2reg = 0.001                 with score 84.93
+2025-01-12 02:38:39,450 - INFO - Generating sentence embeddings
+2025-01-12 02:38:46,111 - INFO - Generated sentence embeddings
+2025-01-12 02:38:46,111 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:38:48,539 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.95
+2025-01-12 02:38:50,584 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.52
+2025-01-12 02:38:52,877 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.58
+2025-01-12 02:38:56,045 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.35
+2025-01-12 02:38:58,998 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 87.32
+2025-01-12 02:38:59,171 - INFO - Generating sentence embeddings
+2025-01-12 02:39:06,096 - INFO - Generated sentence embeddings
+2025-01-12 02:39:06,097 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:39:08,124 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.75
+2025-01-12 02:39:10,395 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.38
+2025-01-12 02:39:12,861 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.55
+2025-01-12 02:39:15,121 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.75
+2025-01-12 02:39:17,232 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.75
+2025-01-12 02:39:17,355 - INFO - Generating sentence embeddings
+2025-01-12 02:39:24,263 - INFO - Generated sentence embeddings
+2025-01-12 02:39:24,263 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:39:26,493 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.88
+2025-01-12 02:39:29,063 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.52
+2025-01-12 02:39:31,364 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.22
+2025-01-12 02:39:33,875 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.75
+2025-01-12 02:39:36,656 - INFO - Best param found at split 5: l2reg = 0.01                 with score 87.32
+2025-01-12 02:39:36,863 - INFO - Generating sentence embeddings
+2025-01-12 02:39:43,823 - INFO - Generated sentence embeddings
+2025-01-12 02:39:43,824 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:39:46,090 - INFO - Best param found at split 1: l2reg = 0.01                 with score 88.18
+2025-01-12 02:39:48,400 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.68
+2025-01-12 02:39:50,609 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.19
+2025-01-12 02:39:53,630 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.25
+2025-01-12 02:39:56,012 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.75
+2025-01-12 02:39:56,201 - INFO - Generating sentence embeddings
+2025-01-12 02:40:03,067 - INFO - Generated sentence embeddings
+2025-01-12 02:40:03,067 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:40:05,851 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.17
+2025-01-12 02:40:09,193 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.9
+2025-01-12 02:40:12,558 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.83
+2025-01-12 02:40:14,837 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.67
+2025-01-12 02:40:17,174 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.83
+2025-01-12 02:40:17,295 - INFO - Generating sentence embeddings
+2025-01-12 02:40:24,267 - INFO - Generated sentence embeddings
+2025-01-12 02:40:24,268 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:40:26,590 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.58
+2025-01-12 02:40:29,056 - INFO - Best param found at split 2: l2reg = 0.001                 with score 86.85
+2025-01-12 02:40:31,927 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.12
+2025-01-12 02:40:34,558 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.49
+2025-01-12 02:40:37,406 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.62
+2025-01-12 02:40:37,506 - INFO - Generating sentence embeddings
+2025-01-12 02:40:44,429 - INFO - Generated sentence embeddings
+2025-01-12 02:40:44,433 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:40:46,384 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.96
+2025-01-12 02:40:48,577 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.03
+2025-01-12 02:40:50,447 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.0
+2025-01-12 02:40:52,593 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.17
+2025-01-12 02:40:54,715 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.4
+2025-01-12 02:40:54,852 - INFO - Generating sentence embeddings
+2025-01-12 02:41:01,626 - INFO - Generated sentence embeddings
+2025-01-12 02:41:01,627 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:41:04,166 - INFO - Best param found at split 1: l2reg = 0.01                 with score 81.32
+2025-01-12 02:41:06,031 - INFO - Best param found at split 2: l2reg = 0.01                 with score 77.68
+2025-01-12 02:41:08,087 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 77.62
+2025-01-12 02:41:10,048 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 77.28
+2025-01-12 02:41:12,687 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 79.5
+2025-01-12 02:41:12,815 - INFO - Generating sentence embeddings
+2025-01-12 02:41:19,816 - INFO - Generated sentence embeddings
+2025-01-12 02:41:19,816 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:41:22,319 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.85
+2025-01-12 02:41:25,011 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.09
+2025-01-12 02:41:28,005 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.09
+2025-01-12 02:41:30,888 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.42
+2025-01-12 02:41:33,428 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.46
+2025-01-12 02:41:33,527 - INFO - Generating sentence embeddings
+2025-01-12 02:41:40,360 - INFO - Generated sentence embeddings
+2025-01-12 02:41:40,361 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:41:42,234 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.73
+2025-01-12 02:41:44,312 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.09
+2025-01-12 02:41:46,283 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.3
+2025-01-12 02:41:48,587 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.13
+2025-01-12 02:41:50,817 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.13
+2025-01-12 02:41:50,960 - INFO - Generating sentence embeddings
+2025-01-12 02:41:57,771 - INFO - Generated sentence embeddings
+2025-01-12 02:41:57,772 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:42:00,224 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.93
+2025-01-12 02:42:02,472 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 79.14
+2025-01-12 02:42:04,733 - INFO - Best param found at split 3: l2reg = 0.01                 with score 80.33
+2025-01-12 02:42:07,095 - INFO - Best param found at split 4: l2reg = 0.01                 with score 79.44
+2025-01-12 02:42:09,498 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 79.57
+2025-01-12 02:42:09,632 - INFO - Generating sentence embeddings
+2025-01-12 02:42:16,538 - INFO - Generated sentence embeddings
+2025-01-12 02:42:16,538 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:42:18,783 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.62
+2025-01-12 02:42:21,201 - INFO - Best param found at split 2: l2reg = 0.001                 with score 87.45
+2025-01-12 02:42:23,920 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.12
+2025-01-12 02:42:26,332 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.79
+2025-01-12 02:42:28,655 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.36
+2025-01-12 02:42:28,790 - INFO - Generating sentence embeddings
+2025-01-12 02:42:35,706 - INFO - Generated sentence embeddings
+2025-01-12 02:42:35,707 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:42:37,695 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.39
+2025-01-12 02:42:40,205 - INFO - Best param found at split 2: l2reg = 0.01                 with score 86.09
+2025-01-12 02:42:42,272 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.07
+2025-01-12 02:42:44,439 - INFO - Best param found at split 4: l2reg = 0.0001                 with score 84.93
+2025-01-12 02:42:46,708 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.4
+2025-01-12 02:42:46,848 - INFO - Generating sentence embeddings
+2025-01-12 02:42:53,765 - INFO - Generated sentence embeddings
+2025-01-12 02:42:53,765 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:42:56,284 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.19
+2025-01-12 02:42:58,571 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.53
+2025-01-12 02:43:01,063 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.3
+2025-01-12 02:43:03,759 - INFO - Best param found at split 4: l2reg = 0.001                 with score 85.26
+2025-01-12 02:43:06,135 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.83
+2025-01-12 02:43:06,272 - INFO - Generating sentence embeddings
+2025-01-12 02:43:13,060 - INFO - Generated sentence embeddings
+2025-01-12 02:43:13,061 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:43:15,175 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.52
+2025-01-12 02:43:17,317 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.28
+2025-01-12 02:43:20,169 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.28
+2025-01-12 02:43:22,835 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.72
+2025-01-12 02:43:25,161 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.49
+2025-01-12 02:43:25,371 - INFO - Generating sentence embeddings
+2025-01-12 02:43:32,366 - INFO - Generated sentence embeddings
+2025-01-12 02:43:32,366 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:43:34,488 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.26
+2025-01-12 02:43:36,892 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.86
+2025-01-12 02:43:39,142 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.13
+2025-01-12 02:43:41,385 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.87
+2025-01-12 02:43:43,826 - INFO - Best param found at split 5: l2reg = 0.01                 with score 84.97
+2025-01-12 02:43:43,909 - INFO - Generating sentence embeddings
+2025-01-12 02:43:50,659 - INFO - Generated sentence embeddings
+2025-01-12 02:43:50,659 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:43:52,924 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.6
+2025-01-12 02:43:55,188 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.26
+2025-01-12 02:43:57,632 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.07
+2025-01-12 02:44:00,759 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.36
+2025-01-12 02:44:03,161 - INFO - Best param found at split 5: l2reg = 0.001                 with score 84.9
+2025-01-12 02:44:03,287 - INFO - Generating sentence embeddings
+2025-01-12 02:44:10,139 - INFO - Generated sentence embeddings
+2025-01-12 02:44:10,139 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:44:12,614 - INFO - Best param found at split 1: l2reg = 0.01                 with score 88.21
+2025-01-12 02:44:14,869 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.99
+2025-01-12 02:44:17,268 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.05
+2025-01-12 02:44:20,035 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.19
+2025-01-12 02:44:22,725 - INFO - Best param found at split 5: l2reg = 0.001                 with score 86.92
+2025-01-12 02:44:22,848 - INFO - Generating sentence embeddings
+2025-01-12 02:44:29,749 - INFO - Generated sentence embeddings
+2025-01-12 02:44:29,750 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:44:32,602 - INFO - Best param found at split 1: l2reg = 0.001                 with score 88.15
+2025-01-12 02:44:35,014 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.05
+2025-01-12 02:44:37,664 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.42
+2025-01-12 02:44:40,808 - INFO - Best param found at split 4: l2reg = 0.01                 with score 87.09
+2025-01-12 02:44:43,491 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.79
+2025-01-12 02:44:43,621 - INFO - Generating sentence embeddings
+2025-01-12 02:44:50,448 - INFO - Generated sentence embeddings
+2025-01-12 02:44:50,448 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:44:52,829 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.25
+2025-01-12 02:44:55,841 - INFO - Best param found at split 2: l2reg = 0.01                 with score 88.05
+2025-01-12 02:44:58,653 - INFO - Best param found at split 3: l2reg = 0.001                 with score 87.98
+2025-01-12 02:45:01,731 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 88.21
+2025-01-12 02:45:04,925 - INFO - Best param found at split 5: l2reg = 0.01                 with score 87.12
+2025-01-12 02:45:05,152 - INFO - Generating sentence embeddings
+2025-01-12 02:45:12,114 - INFO - Generated sentence embeddings
+2025-01-12 02:45:12,114 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:45:14,938 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 88.44
+2025-01-12 02:45:17,625 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 87.85
+2025-01-12 02:45:20,397 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.58
+2025-01-12 02:45:23,474 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 87.38
+2025-01-12 02:45:27,031 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.85
+2025-01-12 02:45:27,367 - INFO - Generating sentence embeddings
+2025-01-12 02:45:34,668 - INFO - Generated sentence embeddings
+2025-01-12 02:45:34,668 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:45:37,821 - INFO - Best param found at split 1: l2reg = 0.001                 with score 83.58
+2025-01-12 02:45:40,599 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.17
+2025-01-12 02:45:43,560 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.81
+2025-01-12 02:45:46,252 - INFO - Best param found at split 4: l2reg = 0.01                 with score 83.68
+2025-01-12 02:45:48,644 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.31
+2025-01-12 02:45:48,774 - INFO - Generating sentence embeddings
+2025-01-12 02:45:55,698 - INFO - Generated sentence embeddings
+2025-01-12 02:45:55,698 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:45:57,903 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.5
+2025-01-12 02:46:00,765 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.56
+2025-01-12 02:46:03,174 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.26
+2025-01-12 02:46:05,581 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.64
+2025-01-12 02:46:08,286 - INFO - Best param found at split 5: l2reg = 0.01                 with score 84.97
+2025-01-12 02:46:08,377 - INFO - Generating sentence embeddings
+2025-01-12 02:46:15,249 - INFO - Generated sentence embeddings
+2025-01-12 02:46:15,249 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:46:17,171 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.83
+2025-01-12 02:46:18,999 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 81.32
+2025-01-12 02:46:20,896 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.36
+2025-01-12 02:46:23,198 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.43
+2025-01-12 02:46:25,211 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.89
+2025-01-12 02:46:25,347 - INFO - Generating sentence embeddings
+2025-01-12 02:46:32,336 - INFO - Generated sentence embeddings
+2025-01-12 02:46:32,337 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:46:33,603 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 63.77
+2025-01-12 02:46:35,253 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 65.73
+2025-01-12 02:46:36,975 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 65.7
+2025-01-12 02:46:38,725 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 64.74
+2025-01-12 02:46:40,900 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 66.16
+2025-01-12 02:46:41,009 - INFO - Generating sentence embeddings
+2025-01-12 02:46:48,245 - INFO - Generated sentence embeddings
+2025-01-12 02:46:48,245 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:46:50,531 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.26
+2025-01-12 02:46:52,653 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.8
+2025-01-12 02:46:55,188 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.03
+2025-01-12 02:46:57,534 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.77
+2025-01-12 02:47:00,001 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.87
+2025-01-12 02:47:00,104 - INFO - Generating sentence embeddings
+2025-01-12 02:47:06,966 - INFO - Generated sentence embeddings
+2025-01-12 02:47:06,966 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:47:08,951 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.53
+2025-01-12 02:47:11,062 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 80.93
+2025-01-12 02:47:13,242 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.26
+2025-01-12 02:47:15,501 - INFO - Best param found at split 4: l2reg = 0.01                 with score 80.3
+2025-01-12 02:47:17,456 - INFO - Best param found at split 5: l2reg = 0.01                 with score 80.93
+2025-01-12 02:47:17,565 - INFO - Generating sentence embeddings
+2025-01-12 02:47:24,544 - INFO - Generated sentence embeddings
+2025-01-12 02:47:24,544 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:47:25,992 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 65.0
+2025-01-12 02:47:27,784 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 65.23
+2025-01-12 02:47:29,659 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 65.79
+2025-01-12 02:47:31,681 - INFO - Best param found at split 4: l2reg = 0.01                 with score 65.89
+2025-01-12 02:47:33,558 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 65.89
+2025-01-12 02:47:33,643 - INFO - Generating sentence embeddings
+2025-01-12 02:47:40,654 - INFO - Generated sentence embeddings
+2025-01-12 02:47:40,654 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:47:42,708 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.0
+2025-01-12 02:47:45,069 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:47:47,006 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.94
+2025-01-12 02:47:49,388 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.83
+2025-01-12 02:47:51,921 - INFO - Best param found at split 5: l2reg = 0.001                 with score 84.64
+2025-01-12 02:47:52,033 - INFO - Generating sentence embeddings
+2025-01-12 02:47:58,910 - INFO - Generated sentence embeddings
+2025-01-12 02:47:58,910 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:48:00,899 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.25
+2025-01-12 02:48:02,887 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.72
+2025-01-12 02:48:04,992 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.42
+2025-01-12 02:48:07,124 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 82.65
+2025-01-12 02:48:09,420 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.78
+2025-01-12 02:48:09,528 - INFO - Generating sentence embeddings
+2025-01-12 02:48:16,527 - INFO - Generated sentence embeddings
+2025-01-12 02:48:16,527 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:48:19,265 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 78.51
+2025-01-12 02:48:22,165 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 78.81
+2025-01-12 02:48:25,093 - INFO - Best param found at split 3: l2reg = 0.01                 with score 77.42
+2025-01-12 02:48:27,456 - INFO - Best param found at split 4: l2reg = 0.01                 with score 76.52
+2025-01-12 02:48:30,208 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 76.29
+2025-01-12 02:48:30,314 - INFO - Generating sentence embeddings
+2025-01-12 02:48:37,187 - INFO - Generated sentence embeddings
+2025-01-12 02:48:37,188 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:48:39,729 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.5
+2025-01-12 02:48:42,273 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.4
+2025-01-12 02:48:45,031 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.93
+2025-01-12 02:48:48,044 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.17
+2025-01-12 02:48:50,502 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.2
+2025-01-12 02:48:50,592 - INFO - Generating sentence embeddings
+2025-01-12 02:48:57,501 - INFO - Generated sentence embeddings
+2025-01-12 02:48:57,501 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:48:59,264 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 82.55
+2025-01-12 02:49:01,305 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.32
+2025-01-12 02:49:03,559 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.35
+2025-01-12 02:49:05,530 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.38
+2025-01-12 02:49:07,783 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.48
+2025-01-12 02:49:07,878 - INFO - Generating sentence embeddings
+2025-01-12 02:49:14,721 - INFO - Generated sentence embeddings
+2025-01-12 02:49:14,721 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:49:17,120 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 79.11
+2025-01-12 02:49:19,772 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 77.95
+2025-01-12 02:49:22,285 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 76.92
+2025-01-12 02:49:24,563 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 77.09
+2025-01-12 02:49:27,650 - INFO - Best param found at split 5: l2reg = 0.01                 with score 78.34
+2025-01-12 02:49:27,756 - INFO - Generating sentence embeddings
+2025-01-12 02:49:34,619 - INFO - Generated sentence embeddings
+2025-01-12 02:49:34,620 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:49:37,088 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.47
+2025-01-12 02:49:39,836 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.67
+2025-01-12 02:49:42,108 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.01
+2025-01-12 02:49:44,976 - INFO - Best param found at split 4: l2reg = 0.001                 with score 84.54
+2025-01-12 02:49:47,363 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.24
+2025-01-12 02:49:47,475 - INFO - Generating sentence embeddings
+2025-01-12 02:49:54,520 - INFO - Generated sentence embeddings
+2025-01-12 02:49:54,520 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:49:56,716 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.81
+2025-01-12 02:49:59,263 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.14
+2025-01-12 02:50:02,017 - INFO - Best param found at split 3: l2reg = 0.001                 with score 83.94
+2025-01-12 02:50:04,862 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.14
+2025-01-12 02:50:07,852 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.64
+2025-01-12 02:50:08,004 - INFO - Generating sentence embeddings
+2025-01-12 02:50:14,893 - INFO - Generated sentence embeddings
+2025-01-12 02:50:14,894 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:50:17,771 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.24
+2025-01-12 02:50:20,573 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.6
+2025-01-12 02:50:24,148 - INFO - Best param found at split 3: l2reg = 0.01                 with score 84.14
+2025-01-12 02:50:27,730 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.3
+2025-01-12 02:50:31,364 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.81
+2025-01-12 02:50:31,651 - INFO - Generating sentence embeddings
+2025-01-12 02:50:38,612 - INFO - Generated sentence embeddings
+2025-01-12 02:50:38,612 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:50:41,679 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.77
+2025-01-12 02:50:44,910 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.21
+2025-01-12 02:50:48,135 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.14
+2025-01-12 02:50:51,043 - INFO - Best param found at split 4: l2reg = 0.01                 with score 83.44
+2025-01-12 02:50:54,066 - INFO - Best param found at split 5: l2reg = 0.01                 with score 84.57
+2025-01-12 02:50:54,264 - INFO - Generating sentence embeddings
+2025-01-12 02:51:01,268 - INFO - Generated sentence embeddings
+2025-01-12 02:51:01,268 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:51:02,776 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 71.52
+2025-01-12 02:51:04,879 - INFO - Best param found at split 2: l2reg = 0.01                 with score 73.41
+2025-01-12 02:51:06,624 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 72.15
+2025-01-12 02:51:08,182 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 70.3
+2025-01-12 02:51:10,027 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 71.26
+2025-01-12 02:51:10,124 - INFO - Generating sentence embeddings
+2025-01-12 02:51:16,979 - INFO - Generated sentence embeddings
+2025-01-12 02:51:16,980 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:51:19,893 - INFO - Best param found at split 1: l2reg = 0.0001                 with score 84.83
+2025-01-12 02:51:22,512 - INFO - Best param found at split 2: l2reg = 0.001                 with score 84.27
+2025-01-12 02:51:25,454 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.03
+2025-01-12 02:51:29,463 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.97
+2025-01-12 02:51:32,734 - INFO - Best param found at split 5: l2reg = 0.001                 with score 84.24
+2025-01-12 02:51:32,874 - INFO - Generating sentence embeddings
+2025-01-12 02:51:39,757 - INFO - Generated sentence embeddings
+2025-01-12 02:51:39,758 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:51:41,925 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.58
+2025-01-12 02:51:44,503 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 83.74
+2025-01-12 02:51:46,903 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.31
+2025-01-12 02:51:49,622 - INFO - Best param found at split 4: l2reg = 0.01                 with score 83.25
+2025-01-12 02:51:52,154 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.88
+2025-01-12 02:51:52,289 - INFO - Generating sentence embeddings
+2025-01-12 02:51:59,151 - INFO - Generated sentence embeddings
+2025-01-12 02:51:59,151 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:52:00,737 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 67.75
+2025-01-12 02:52:02,462 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 68.97
+2025-01-12 02:52:04,415 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 69.97
+2025-01-12 02:52:06,429 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 67.95
+2025-01-12 02:52:08,632 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 69.21
+2025-01-12 02:52:08,756 - INFO - Generating sentence embeddings
+2025-01-12 02:52:15,606 - INFO - Generated sentence embeddings
+2025-01-12 02:52:15,606 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:52:18,337 - INFO - Best param found at split 1: l2reg = 0.001                 with score 84.57
+2025-01-12 02:52:21,496 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.87
+2025-01-12 02:52:24,935 - INFO - Best param found at split 3: l2reg = 0.001                 with score 84.87
+2025-01-12 02:52:28,300 - INFO - Best param found at split 4: l2reg = 0.001                 with score 84.11
+2025-01-12 02:52:32,154 - INFO - Best param found at split 5: l2reg = 0.001                 with score 84.14
+2025-01-12 02:52:32,297 - INFO - Generating sentence embeddings
+2025-01-12 02:52:39,233 - INFO - Generated sentence embeddings
+2025-01-12 02:52:39,233 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:52:41,840 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.58
+2025-01-12 02:52:44,044 - INFO - Best param found at split 2: l2reg = 0.01                 with score 83.68
+2025-01-12 02:52:46,563 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.21
+2025-01-12 02:52:49,252 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.05
+2025-01-12 02:52:51,431 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.88
+2025-01-12 02:52:51,726 - INFO - Generating sentence embeddings
+2025-01-12 02:52:58,502 - INFO - Generated sentence embeddings
+2025-01-12 02:52:58,502 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:52:59,915 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 68.21
+2025-01-12 02:53:01,477 - INFO - Best param found at split 2: l2reg = 0.01                 with score 68.81
+2025-01-12 02:53:03,700 - INFO - Best param found at split 3: l2reg = 0.01                 with score 71.09
+2025-01-12 02:53:05,603 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 69.77
+2025-01-12 02:53:07,733 - INFO - Best param found at split 5: l2reg = 0.001                 with score 70.4
+2025-01-12 02:53:07,859 - INFO - Generating sentence embeddings
+2025-01-12 02:53:14,821 - INFO - Generated sentence embeddings
+2025-01-12 02:53:14,821 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:53:16,565 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 82.91
+2025-01-12 02:53:18,418 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.45
+2025-01-12 02:53:20,611 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.65
+2025-01-12 02:53:22,631 - INFO - Best param found at split 4: l2reg = 0.001                 with score 82.25
+2025-01-12 02:53:24,675 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.65
+2025-01-12 02:53:24,792 - INFO - Generating sentence embeddings
+2025-01-12 02:53:31,624 - INFO - Generated sentence embeddings
+2025-01-12 02:53:31,625 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:53:33,741 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.4
+2025-01-12 02:53:36,800 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.24
+2025-01-12 02:53:39,611 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.54
+2025-01-12 02:53:42,308 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.64
+2025-01-12 02:53:45,583 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.87
+2025-01-12 02:53:45,718 - INFO - Generating sentence embeddings
+2025-01-12 02:53:52,611 - INFO - Generated sentence embeddings
+2025-01-12 02:53:52,611 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:53:54,774 - INFO - Best param found at split 1: l2reg = 0.001                 with score 78.61
+2025-01-12 02:53:57,578 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 79.34
+2025-01-12 02:54:00,559 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.26
+2025-01-12 02:54:03,954 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 79.97
+2025-01-12 02:54:07,133 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.7
+2025-01-12 02:54:07,362 - INFO - Generating sentence embeddings
+2025-01-12 02:54:14,237 - INFO - Generated sentence embeddings
+2025-01-12 02:54:14,237 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:54:16,242 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.21
+2025-01-12 02:54:18,043 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.19
+2025-01-12 02:54:20,360 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.68
+2025-01-12 02:54:22,892 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 81.92
+2025-01-12 02:54:25,476 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.58
+2025-01-12 02:54:25,617 - INFO - Generating sentence embeddings
+2025-01-12 02:54:32,470 - INFO - Generated sentence embeddings
+2025-01-12 02:54:32,470 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:54:34,704 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.21
+2025-01-12 02:54:36,894 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.34
+2025-01-12 02:54:39,345 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.71
+2025-01-12 02:54:41,556 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.61
+2025-01-12 02:54:43,854 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.61
+2025-01-12 02:54:43,963 - INFO - Generating sentence embeddings
+2025-01-12 02:54:50,950 - INFO - Generated sentence embeddings
+2025-01-12 02:54:50,951 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:54:52,852 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.13
+2025-01-12 02:54:54,963 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 79.64
+2025-01-12 02:54:57,321 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 79.97
+2025-01-12 02:54:59,868 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.1
+2025-01-12 02:55:02,422 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.36
+2025-01-12 02:55:02,556 - INFO - Generating sentence embeddings
+2025-01-12 02:55:09,454 - INFO - Generated sentence embeddings
+2025-01-12 02:55:09,454 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:55:12,085 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.0
+2025-01-12 02:55:14,656 - INFO - Best param found at split 2: l2reg = 0.001                 with score 84.83
+2025-01-12 02:55:17,428 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.07
+2025-01-12 02:55:20,420 - INFO - Best param found at split 4: l2reg = 0.001                 with score 84.77
+2025-01-12 02:55:23,119 - INFO - Best param found at split 5: l2reg = 0.001                 with score 84.64
+2025-01-12 02:55:23,246 - INFO - Generating sentence embeddings
+2025-01-12 02:55:30,114 - INFO - Generated sentence embeddings
+2025-01-12 02:55:30,114 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:55:33,700 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.97
+2025-01-12 02:55:37,339 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.77
+2025-01-12 02:55:40,559 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.93
+2025-01-12 02:55:43,054 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.6
+2025-01-12 02:55:45,829 - INFO - Best param found at split 5: l2reg = 0.01                 with score 84.01
+2025-01-12 02:55:45,965 - INFO - Generating sentence embeddings
+2025-01-12 02:55:53,073 - INFO - Generated sentence embeddings
+2025-01-12 02:55:53,073 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:55:55,395 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.3
+2025-01-12 02:55:58,032 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.93
+2025-01-12 02:56:01,091 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.73
+2025-01-12 02:56:04,375 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.1
+2025-01-12 02:56:07,912 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.96
+2025-01-12 02:56:08,121 - INFO - Generating sentence embeddings
+2025-01-12 02:56:14,876 - INFO - Generated sentence embeddings
+2025-01-12 02:56:14,876 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 02:56:18,251 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.2
+2025-01-12 02:56:22,403 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.3
+2025-01-12 02:56:25,537 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.86
+2025-01-12 02:56:29,968 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.8
+2025-01-12 02:56:33,636 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.9
+2025-01-12 13:42:47,915 - INFO - Generating sentence embeddings
+2025-01-12 13:42:57,127 - INFO - Generated sentence embeddings
+2025-01-12 13:42:57,128 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:43:00,075 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 76.95
+2025-01-12 13:43:02,516 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 76.19
+2025-01-12 13:43:05,114 - INFO - Best param found at split 3: l2reg = 0.01                 with score 76.92
+2025-01-12 13:43:08,877 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.75
+2025-01-12 13:43:12,658 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 76.39
+2025-01-12 13:43:12,856 - INFO - Generating sentence embeddings
+2025-01-12 13:43:20,444 - INFO - Generated sentence embeddings
+2025-01-12 13:43:20,445 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:43:24,186 - INFO - Best param found at split 1: l2reg = 0.001                 with score 82.28
+2025-01-12 13:43:27,428 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.09
+2025-01-12 13:43:31,105 - INFO - Best param found at split 3: l2reg = 0.01                 with score 82.75
+2025-01-12 13:43:34,127 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 82.48
+2025-01-12 13:43:37,025 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.05
+2025-01-12 13:43:37,143 - INFO - Generating sentence embeddings
+2025-01-12 13:43:45,087 - INFO - Generated sentence embeddings
+2025-01-12 13:43:45,087 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:43:48,195 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.96
+2025-01-12 13:43:50,266 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 81.42
+2025-01-12 13:43:53,506 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 81.06
+2025-01-12 13:43:56,348 - INFO - Best param found at split 4: l2reg = 0.01                 with score 81.06
+2025-01-12 13:43:58,761 - INFO - Best param found at split 5: l2reg = 0.01                 with score 80.86
+2025-01-12 13:43:58,870 - INFO - Generating sentence embeddings
+2025-01-12 13:44:05,628 - INFO - Generated sentence embeddings
+2025-01-12 13:44:05,629 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:44:07,826 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 73.05
+2025-01-12 13:44:09,882 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 72.15
+2025-01-12 13:44:12,235 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.91
+2025-01-12 13:44:15,231 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 72.02
+2025-01-12 13:44:17,250 - INFO - Best param found at split 5: l2reg = 0.001                 with score 73.28
+2025-01-12 13:44:17,346 - INFO - Generating sentence embeddings
+2025-01-12 13:44:24,511 - INFO - Generated sentence embeddings
+2025-01-12 13:44:24,511 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:44:26,978 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 82.72
+2025-01-12 13:44:29,487 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.32
+2025-01-12 13:44:32,152 - INFO - Best param found at split 3: l2reg = 0.01                 with score 82.85
+2025-01-12 13:44:34,772 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.62
+2025-01-12 13:44:37,784 - INFO - Best param found at split 5: l2reg = 0.001                 with score 82.09
+2025-01-12 13:44:37,975 - INFO - Generating sentence embeddings
+2025-01-12 13:44:44,791 - INFO - Generated sentence embeddings
+2025-01-12 13:44:44,792 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:44:48,257 - INFO - Best param found at split 1: l2reg = 0.01                 with score 81.13
+2025-01-12 13:44:50,891 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.49
+2025-01-12 13:44:53,364 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 81.26
+2025-01-12 13:44:55,614 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.5
+2025-01-12 13:44:57,918 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.93
+2025-01-12 13:44:58,013 - INFO - Generating sentence embeddings
+2025-01-12 13:45:04,614 - INFO - Generated sentence embeddings
+2025-01-12 13:45:04,614 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:45:06,422 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 72.22
+2025-01-12 13:45:08,422 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 72.78
+2025-01-12 13:45:10,718 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.91
+2025-01-12 13:45:13,035 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 72.02
+2025-01-12 13:45:15,463 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 73.54
+2025-01-12 13:45:15,568 - INFO - Generating sentence embeddings
+2025-01-12 13:45:23,445 - INFO - Generated sentence embeddings
+2025-01-12 13:45:23,445 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:45:25,526 - INFO - Best param found at split 1: l2reg = 0.01                 with score 80.99
+2025-01-12 13:45:27,702 - INFO - Best param found at split 2: l2reg = 0.001                 with score 80.7
+2025-01-12 13:45:29,779 - INFO - Best param found at split 3: l2reg = 0.001                 with score 80.7
+2025-01-12 13:45:31,987 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.83
+2025-01-12 13:45:34,432 - INFO - Best param found at split 5: l2reg = 0.001                 with score 81.32
+2025-01-12 13:45:34,565 - INFO - Generating sentence embeddings
+2025-01-12 13:45:42,013 - INFO - Generated sentence embeddings
+2025-01-12 13:45:42,013 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:45:44,732 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 81.32
+2025-01-12 13:45:48,044 - INFO - Best param found at split 2: l2reg = 0.01                 with score 80.96
+2025-01-12 13:45:50,574 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.89
+2025-01-12 13:45:54,706 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.63
+2025-01-12 13:45:57,749 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.46
+2025-01-12 13:45:57,893 - INFO - Generating sentence embeddings
+2025-01-12 13:46:04,602 - INFO - Generated sentence embeddings
+2025-01-12 13:46:04,603 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:46:07,149 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 78.21
+2025-01-12 13:46:09,709 - INFO - Best param found at split 2: l2reg = 0.001                 with score 78.21
+2025-01-12 13:46:12,718 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 78.31
+2025-01-12 13:46:15,352 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.79
+2025-01-12 13:46:17,999 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 77.32
+2025-01-12 13:46:18,162 - INFO - Generating sentence embeddings
+2025-01-12 13:46:25,139 - INFO - Generated sentence embeddings
+2025-01-12 13:46:25,140 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:46:28,013 - INFO - Best param found at split 1: l2reg = 0.01                 with score 80.99
+2025-01-12 13:46:30,000 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.06
+2025-01-12 13:46:32,673 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.86
+2025-01-12 13:46:35,787 - INFO - Best param found at split 4: l2reg = 0.01                 with score 81.49
+2025-01-12 13:46:38,251 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.49
+2025-01-12 13:46:38,431 - INFO - Generating sentence embeddings
+2025-01-12 13:46:45,176 - INFO - Generated sentence embeddings
+2025-01-12 13:46:45,177 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:46:47,237 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.89
+2025-01-12 13:46:49,893 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.56
+2025-01-12 13:46:52,871 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 80.7
+2025-01-12 13:46:55,398 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 80.99
+2025-01-12 13:46:58,399 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 80.2
+2025-01-12 13:46:58,551 - INFO - Generating sentence embeddings
+2025-01-12 13:47:06,721 - INFO - Generated sentence embeddings
+2025-01-12 13:47:06,722 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:47:09,082 - INFO - Best param found at split 1: l2reg = 0.01                 with score 78.05
+2025-01-12 13:47:11,283 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 78.74
+2025-01-12 13:47:13,641 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 78.34
+2025-01-12 13:47:15,832 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 76.92
+2025-01-12 13:47:18,020 - INFO - Best param found at split 5: l2reg = 0.01                 with score 77.78
+2025-01-12 13:47:18,170 - INFO - Generating sentence embeddings
+2025-01-12 13:47:24,938 - INFO - Generated sentence embeddings
+2025-01-12 13:47:24,939 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:47:27,416 - INFO - Best param found at split 1: l2reg = 0.01                 with score 82.95
+2025-01-12 13:47:29,926 - INFO - Best param found at split 2: l2reg = 0.001                 with score 82.98
+2025-01-12 13:47:32,390 - INFO - Best param found at split 3: l2reg = 0.001                 with score 83.18
+2025-01-12 13:47:35,884 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.08
+2025-01-12 13:47:39,047 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.05
+2025-01-12 13:47:39,274 - INFO - Generating sentence embeddings
+2025-01-12 13:47:46,041 - INFO - Generated sentence embeddings
+2025-01-12 13:47:46,041 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:47:48,576 - INFO - Best param found at split 1: l2reg = 0.001                 with score 82.65
+2025-01-12 13:47:50,976 - INFO - Best param found at split 2: l2reg = 0.01                 with score 82.65
+2025-01-12 13:47:54,192 - INFO - Best param found at split 3: l2reg = 0.01                 with score 82.65
+2025-01-12 13:47:56,652 - INFO - Best param found at split 4: l2reg = 0.001                 with score 83.21
+2025-01-12 13:47:59,030 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.55
+2025-01-12 13:47:59,123 - INFO - Generating sentence embeddings
+2025-01-12 13:48:06,895 - INFO - Generated sentence embeddings
+2025-01-12 13:48:06,895 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:48:09,566 - INFO - Best param found at split 1: l2reg = 0.001                 with score 82.45
+2025-01-12 13:48:12,906 - INFO - Best param found at split 2: l2reg = 0.01                 with score 83.08
+2025-01-12 13:48:16,488 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.45
+2025-01-12 13:48:20,773 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.88
+2025-01-12 13:48:23,659 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.52
+2025-01-12 13:48:23,871 - INFO - Generating sentence embeddings
+2025-01-12 13:48:31,059 - INFO - Generated sentence embeddings
+2025-01-12 13:48:31,059 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:48:33,662 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.15
+2025-01-12 13:48:36,387 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 83.01
+2025-01-12 13:48:40,848 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.34
+2025-01-12 13:48:44,479 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 82.65
+2025-01-12 13:48:48,354 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.81
+2025-01-12 13:48:48,681 - INFO - Generating sentence embeddings
+2025-01-12 13:48:55,933 - INFO - Generated sentence embeddings
+2025-01-12 13:48:55,933 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:48:58,217 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 75.43
+2025-01-12 13:49:00,013 - INFO - Best param found at split 2: l2reg = 0.01                 with score 74.87
+2025-01-12 13:49:02,768 - INFO - Best param found at split 3: l2reg = 0.001                 with score 74.57
+2025-01-12 13:49:06,532 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 75.2
+2025-01-12 13:49:09,579 - INFO - Best param found at split 5: l2reg = 0.01                 with score 75.3
+2025-01-12 13:49:09,722 - INFO - Generating sentence embeddings
+2025-01-12 13:49:17,484 - INFO - Generated sentence embeddings
+2025-01-12 13:49:17,484 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:49:21,082 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.3
+2025-01-12 13:49:24,971 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.37
+2025-01-12 13:49:28,892 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.17
+2025-01-12 13:49:31,804 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.24
+2025-01-12 13:49:35,240 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.97
+2025-01-12 13:49:35,375 - INFO - Generating sentence embeddings
+2025-01-12 13:49:42,105 - INFO - Generated sentence embeddings
+2025-01-12 13:49:42,106 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:49:44,210 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.15
+2025-01-12 13:49:47,042 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.62
+2025-01-12 13:49:49,385 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.28
+2025-01-12 13:49:51,994 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.08
+2025-01-12 13:49:54,077 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.42
+2025-01-12 13:49:54,173 - INFO - Generating sentence embeddings
+2025-01-12 13:50:00,924 - INFO - Generated sentence embeddings
+2025-01-12 13:50:00,924 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:50:03,069 - INFO - Best param found at split 1: l2reg = 0.01                 with score 72.81
+2025-01-12 13:50:05,377 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 72.28
+2025-01-12 13:50:08,777 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.71
+2025-01-12 13:50:12,159 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 74.17
+2025-01-12 13:50:15,598 - INFO - Best param found at split 5: l2reg = 0.01                 with score 72.65
+2025-01-12 13:50:15,758 - INFO - Generating sentence embeddings
+2025-01-12 13:50:23,790 - INFO - Generated sentence embeddings
+2025-01-12 13:50:23,791 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:50:29,166 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.53
+2025-01-12 13:50:33,233 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.64
+2025-01-12 13:50:37,594 - INFO - Best param found at split 3: l2reg = 0.001                 with score 84.5
+2025-01-12 13:50:41,526 - INFO - Best param found at split 4: l2reg = 0.001                 with score 84.3
+2025-01-12 13:50:45,729 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.97
+2025-01-12 13:50:45,912 - INFO - Generating sentence embeddings
+2025-01-12 13:50:53,963 - INFO - Generated sentence embeddings
+2025-01-12 13:50:53,963 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:50:57,215 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.18
+2025-01-12 13:50:59,916 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 82.72
+2025-01-12 13:51:03,169 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.51
+2025-01-12 13:51:07,124 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.05
+2025-01-12 13:51:09,959 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 81.69
+2025-01-12 13:51:10,102 - INFO - Generating sentence embeddings
+2025-01-12 13:51:16,802 - INFO - Generated sentence embeddings
+2025-01-12 13:51:16,802 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:51:21,214 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 74.24
+2025-01-12 13:51:26,605 - INFO - Best param found at split 2: l2reg = 0.01                 with score 74.27
+2025-01-12 13:51:29,867 - INFO - Best param found at split 3: l2reg = 0.01                 with score 74.64
+2025-01-12 13:51:33,563 - INFO - Best param found at split 4: l2reg = 0.01                 with score 75.56
+2025-01-12 13:51:36,693 - INFO - Best param found at split 5: l2reg = 0.01                 with score 74.93
+2025-01-12 13:51:37,037 - INFO - Generating sentence embeddings
+2025-01-12 13:51:43,841 - INFO - Generated sentence embeddings
+2025-01-12 13:51:43,842 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:51:46,951 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.58
+2025-01-12 13:51:50,523 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 83.28
+2025-01-12 13:51:53,997 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 82.81
+2025-01-12 13:51:59,378 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.77
+2025-01-12 13:52:03,191 - INFO - Best param found at split 5: l2reg = 0.01                 with score 83.01
+2025-01-12 13:52:03,342 - INFO - Generating sentence embeddings
+2025-01-12 13:52:10,242 - INFO - Generated sentence embeddings
+2025-01-12 13:52:10,243 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:52:14,017 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.84
+2025-01-12 13:52:17,867 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.04
+2025-01-12 13:52:21,005 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 83.58
+2025-01-12 13:52:23,906 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.31
+2025-01-12 13:52:26,039 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 82.88
+2025-01-12 13:52:26,152 - INFO - Generating sentence embeddings
+2025-01-12 13:52:33,876 - INFO - Generated sentence embeddings
+2025-01-12 13:52:33,876 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:52:35,891 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 79.7
+2025-01-12 13:52:39,414 - INFO - Best param found at split 2: l2reg = 0.01                 with score 79.8
+2025-01-12 13:52:42,069 - INFO - Best param found at split 3: l2reg = 0.01                 with score 80.43
+2025-01-12 13:52:44,504 - INFO - Best param found at split 4: l2reg = 0.001                 with score 79.21
+2025-01-12 13:52:46,817 - INFO - Best param found at split 5: l2reg = 0.01                 with score 79.5
+2025-01-12 13:52:46,929 - INFO - Generating sentence embeddings
+2025-01-12 13:52:53,576 - INFO - Generated sentence embeddings
+2025-01-12 13:52:53,577 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:52:55,489 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 83.71
+2025-01-12 13:52:57,548 - INFO - Best param found at split 2: l2reg = 0.001                 with score 83.77
+2025-01-12 13:52:59,491 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.15
+2025-01-12 13:53:01,794 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.41
+2025-01-12 13:53:03,893 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.21
+2025-01-12 13:53:04,013 - INFO - Generating sentence embeddings
+2025-01-12 13:53:11,715 - INFO - Generated sentence embeddings
+2025-01-12 13:53:11,715 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:53:13,605 - INFO - Best param found at split 1: l2reg = 0.01                 with score 83.77
+2025-01-12 13:53:16,319 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.07
+2025-01-12 13:53:18,350 - INFO - Best param found at split 3: l2reg = 0.01                 with score 83.71
+2025-01-12 13:53:20,491 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.41
+2025-01-12 13:53:22,470 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.85
+2025-01-12 13:53:22,573 - INFO - Generating sentence embeddings
+2025-01-12 13:53:29,313 - INFO - Generated sentence embeddings
+2025-01-12 13:53:29,314 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:53:33,062 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 80.4
+2025-01-12 13:53:36,623 - INFO - Best param found at split 2: l2reg = 0.01                 with score 79.54
+2025-01-12 13:53:41,665 - INFO - Best param found at split 3: l2reg = 0.01                 with score 80.13
+2025-01-12 13:53:45,182 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 79.6
+2025-01-12 13:53:47,852 - INFO - Best param found at split 5: l2reg = 0.01                 with score 79.07
+2025-01-12 13:53:48,046 - INFO - Generating sentence embeddings
+2025-01-12 13:53:54,911 - INFO - Generated sentence embeddings
+2025-01-12 13:53:54,911 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:53:57,954 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.6
+2025-01-12 13:54:00,722 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.03
+2025-01-12 13:54:03,957 - INFO - Best param found at split 3: l2reg = 0.001                 with score 85.89
+2025-01-12 13:54:07,243 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 84.83
+2025-01-12 13:54:10,481 - INFO - Best param found at split 5: l2reg = 0.001                 with score 85.33
+2025-01-12 13:54:10,622 - INFO - Generating sentence embeddings
+2025-01-12 13:54:18,385 - INFO - Generated sentence embeddings
+2025-01-12 13:54:18,385 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:54:21,219 - INFO - Best param found at split 1: l2reg = 0.001                 with score 85.53
+2025-01-12 13:54:24,509 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.1
+2025-01-12 13:54:28,512 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.99
+2025-01-12 13:54:32,171 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.56
+2025-01-12 13:54:36,872 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.33
+2025-01-12 13:54:37,127 - INFO - Generating sentence embeddings
+2025-01-12 13:54:43,925 - INFO - Generated sentence embeddings
+2025-01-12 13:54:43,926 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:54:48,532 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.56
+2025-01-12 13:54:52,234 - INFO - Best param found at split 2: l2reg = 0.001                 with score 85.4
+2025-01-12 13:54:55,835 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.63
+2025-01-12 13:54:59,688 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.23
+2025-01-12 13:55:02,670 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.74
+2025-01-12 13:55:02,829 - INFO - Generating sentence embeddings
+2025-01-12 13:55:09,724 - INFO - Generated sentence embeddings
+2025-01-12 13:55:09,724 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:55:12,123 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.96
+2025-01-12 13:55:14,754 - INFO - Best param found at split 2: l2reg = 0.001                 with score 85.23
+2025-01-12 13:55:17,355 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.4
+2025-01-12 13:55:21,386 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.26
+2025-01-12 13:55:23,990 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.36
+2025-01-12 13:55:24,132 - INFO - Generating sentence embeddings
+2025-01-12 13:55:30,802 - INFO - Generated sentence embeddings
+2025-01-12 13:55:30,803 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:55:33,839 - INFO - Best param found at split 1: l2reg = 0.01                 with score 82.98
+2025-01-12 13:55:35,947 - INFO - Best param found at split 2: l2reg = 0.01                 with score 81.69
+2025-01-12 13:55:37,820 - INFO - Best param found at split 3: l2reg = 0.01                 with score 81.29
+2025-01-12 13:55:40,484 - INFO - Best param found at split 4: l2reg = 0.01                 with score 82.48
+2025-01-12 13:55:42,637 - INFO - Best param found at split 5: l2reg = 0.01                 with score 82.02
+2025-01-12 13:55:42,762 - INFO - Generating sentence embeddings
+2025-01-12 13:55:49,450 - INFO - Generated sentence embeddings
+2025-01-12 13:55:49,451 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 13:55:52,746 - INFO - Best param found at split 1: l2reg = 0.001                 with score 87.48
+2025-01-12 13:55:55,219 - INFO - Best param found at split 2: l2reg = 0.01                 with score 86.89
+2025-01-12 13:55:57,991 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 86.99
+2025-01-12 13:56:00,823 - INFO - Best param found at split 4: l2reg = 0.01                 with score 86.69
+2025-01-12 14:09:00,863 - INFO - Generating sentence embeddings
+2025-01-12 14:09:08,082 - INFO - Generated sentence embeddings
+2025-01-12 14:09:08,083 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:09:10,459 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.97
+2025-01-12 14:09:14,104 - INFO - Best param found at split 2: l2reg = 0.01                 with score 84.57
+2025-01-12 14:09:16,521 - INFO - Best param found at split 3: l2reg = 0.01                 with score 84.9
+2025-01-12 14:09:18,864 - INFO - Best param found at split 4: l2reg = 0.01                 with score 84.87
+2025-01-12 14:09:20,846 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.94
+2025-01-12 14:09:20,936 - INFO - Generating sentence embeddings
+2025-01-12 14:09:27,736 - INFO - Generated sentence embeddings
+2025-01-12 14:09:27,736 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:09:30,298 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.32
+2025-01-12 14:09:33,068 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.76
+2025-01-12 14:09:35,798 - INFO - Best param found at split 3: l2reg = 0.001                 with score 85.89
+2025-01-12 14:09:38,583 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.5
+2025-01-12 14:09:41,647 - INFO - Best param found at split 5: l2reg = 0.001                 with score 85.0
+2025-01-12 14:09:41,751 - INFO - Generating sentence embeddings
+2025-01-12 14:09:49,244 - INFO - Generated sentence embeddings
+2025-01-12 14:09:49,245 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:09:51,236 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 84.34
+2025-01-12 14:09:53,264 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 84.87
+2025-01-12 14:09:55,572 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.07
+2025-01-12 14:09:57,698 - INFO - Best param found at split 4: l2reg = 0.01                 with score 83.87
+2025-01-12 14:09:59,678 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.27
+2025-01-12 14:09:59,752 - INFO - Generating sentence embeddings
+2025-01-12 14:10:06,212 - INFO - Generated sentence embeddings
+2025-01-12 14:10:06,212 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:10:07,640 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 72.15
+2025-01-12 14:10:08,991 - INFO - Best param found at split 2: l2reg = 0.001                 with score 70.43
+2025-01-12 14:10:10,551 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 73.21
+2025-01-12 14:10:12,078 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 72.05
+2025-01-12 14:10:13,808 - INFO - Best param found at split 5: l2reg = 0.01                 with score 73.28
+2025-01-12 14:10:13,915 - INFO - Generating sentence embeddings
+2025-01-12 14:10:21,457 - INFO - Generated sentence embeddings
+2025-01-12 14:10:21,458 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:10:23,784 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.96
+2025-01-12 14:10:26,138 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.53
+2025-01-12 14:10:29,084 - INFO - Best param found at split 3: l2reg = 0.001                 with score 86.29
+2025-01-12 14:10:31,750 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.1
+2025-01-12 14:10:34,457 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.23
+2025-01-12 14:10:34,715 - INFO - Generating sentence embeddings
+2025-01-12 14:10:41,282 - INFO - Generated sentence embeddings
+2025-01-12 14:10:41,282 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:10:43,175 - INFO - Best param found at split 1: l2reg = 0.01                 with score 84.34
+2025-01-12 14:10:45,549 - INFO - Best param found at split 2: l2reg = 0.0001                 with score 84.8
+2025-01-12 14:10:47,760 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.14
+2025-01-12 14:10:49,973 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.74
+2025-01-12 14:10:53,005 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 84.07
+2025-01-12 14:10:53,112 - INFO - Generating sentence embeddings
+2025-01-12 14:10:59,679 - INFO - Generated sentence embeddings
+2025-01-12 14:10:59,679 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:11:01,012 - INFO - Best param found at split 1: l2reg = 0.0001                 with score 71.46
+2025-01-12 14:11:03,041 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 73.84
+2025-01-12 14:11:05,291 - INFO - Best param found at split 3: l2reg = 0.01                 with score 75.26
+2025-01-12 14:11:07,339 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 71.46
+2025-01-12 14:11:09,820 - INFO - Best param found at split 5: l2reg = 0.001                 with score 71.72
+2025-01-12 14:11:09,961 - INFO - Generating sentence embeddings
+2025-01-12 14:11:16,617 - INFO - Generated sentence embeddings
+2025-01-12 14:11:16,618 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:11:18,950 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 87.12
+2025-01-12 14:11:21,274 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 86.66
+2025-01-12 14:11:24,188 - INFO - Best param found at split 3: l2reg = 0.001                 with score 87.12
+2025-01-12 14:11:27,385 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.19
+2025-01-12 14:11:29,636 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.16
+2025-01-12 14:11:29,723 - INFO - Generating sentence embeddings
+2025-01-12 14:11:36,254 - INFO - Generated sentence embeddings
+2025-01-12 14:11:36,254 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:11:40,082 - INFO - Best param found at split 1: l2reg = 0.001                 with score 85.5
+2025-01-12 14:11:44,036 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.66
+2025-01-12 14:11:48,527 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.57
+2025-01-12 14:11:52,666 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.94
+2025-01-12 14:11:56,929 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.87
+2025-01-12 14:11:57,123 - INFO - Generating sentence embeddings
+2025-01-12 14:12:04,784 - INFO - Generated sentence embeddings
+2025-01-12 14:12:04,784 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:12:07,386 - INFO - Best param found at split 1: l2reg = 0.01                 with score 85.83
+2025-01-12 14:12:10,056 - INFO - Best param found at split 2: l2reg = 0.01                 with score 85.4
+2025-01-12 14:12:12,774 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 85.46
+2025-01-12 14:12:15,972 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.1
+2025-01-12 14:12:18,846 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.26
+2025-01-12 14:12:18,974 - INFO - Generating sentence embeddings
+2025-01-12 14:12:25,493 - INFO - Generated sentence embeddings
+2025-01-12 14:12:25,493 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:12:29,160 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.95
+2025-01-12 14:12:32,912 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.02
+2025-01-12 14:12:35,632 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 87.09
+2025-01-12 14:12:37,938 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 85.96
+2025-01-12 14:12:40,493 - INFO - Best param found at split 5: l2reg = 0.01                 with score 86.13
+2025-01-12 14:12:40,601 - INFO - Generating sentence embeddings
+2025-01-12 14:12:47,140 - INFO - Generated sentence embeddings
+2025-01-12 14:12:47,140 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:12:49,652 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 85.36
+2025-01-12 14:12:52,362 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.33
+2025-01-12 14:12:55,428 - INFO - Best param found at split 3: l2reg = 1e-05                 with score 84.37
+2025-01-12 14:12:58,318 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 83.84
+2025-01-12 14:13:00,833 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 83.94
+2025-01-12 14:13:00,932 - INFO - Generating sentence embeddings
+2025-01-12 14:13:08,513 - INFO - Generated sentence embeddings
+2025-01-12 14:13:08,513 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:13:10,883 - INFO - Best param found at split 1: l2reg = 0.001                 with score 85.89
+2025-01-12 14:13:13,406 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.53
+2025-01-12 14:13:17,004 - INFO - Best param found at split 3: l2reg = 0.01                 with score 85.73
+2025-01-12 14:13:20,008 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.23
+2025-01-12 14:13:22,721 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 85.23
+2025-01-12 14:13:22,828 - INFO - Generating sentence embeddings
+2025-01-12 14:13:29,490 - INFO - Generated sentence embeddings
+2025-01-12 14:13:29,490 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:13:32,336 - INFO - Best param found at split 1: l2reg = 1e-05                 with score 86.69
+2025-01-12 14:13:34,976 - INFO - Best param found at split 2: l2reg = 1e-05                 with score 85.86
+2025-01-12 14:13:38,805 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.19
+2025-01-12 14:13:41,619 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.83
+2025-01-12 14:13:44,438 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.76
+2025-01-12 14:13:44,570 - INFO - Generating sentence embeddings
+2025-01-12 14:13:51,329 - INFO - Generated sentence embeddings
+2025-01-12 14:13:51,329 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:13:54,168 - INFO - Best param found at split 1: l2reg = 0.01                 with score 86.95
+2025-01-12 14:13:57,192 - INFO - Best param found at split 2: l2reg = 0.0001                 with score 86.46
+2025-01-12 14:14:00,156 - INFO - Best param found at split 3: l2reg = 0.01                 with score 86.26
+2025-01-12 14:14:03,143 - INFO - Best param found at split 4: l2reg = 0.01                 with score 85.99
+2025-01-12 14:14:05,928 - INFO - Best param found at split 5: l2reg = 0.01                 with score 85.7
+2025-01-12 14:14:06,057 - INFO - Generating sentence embeddings
+2025-01-12 14:14:13,731 - INFO - Generated sentence embeddings
+2025-01-12 14:14:13,731 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:14:17,038 - INFO - Best param found at split 1: l2reg = 0.01                 with score 87.32
+2025-01-12 14:14:20,672 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.05
+2025-01-12 14:14:24,280 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.19
+2025-01-12 14:14:27,517 - INFO - Best param found at split 4: l2reg = 1e-05                 with score 86.06
+2025-01-12 14:14:31,407 - INFO - Best param found at split 5: l2reg = 0.001                 with score 86.46
+2025-01-12 14:14:31,577 - INFO - Generating sentence embeddings
+2025-01-12 14:14:38,293 - INFO - Generated sentence embeddings
+2025-01-12 14:14:38,293 - INFO - Training pytorch-MLP-nhid0-adam-bs512 with (inner) 5-fold cross-validation
+2025-01-12 14:14:41,575 - INFO - Best param found at split 1: l2reg = 0.001                 with score 87.68
+2025-01-12 14:14:46,309 - INFO - Best param found at split 2: l2reg = 0.01                 with score 87.19
+2025-01-12 14:14:49,518 - INFO - Best param found at split 3: l2reg = 0.01                 with score 87.22
+2025-01-12 14:14:52,455 - INFO - Best param found at split 4: l2reg = 0.01                 with score 86.56
+2025-01-12 14:14:55,260 - INFO - Best param found at split 5: l2reg = 1e-05                 with score 86.39
