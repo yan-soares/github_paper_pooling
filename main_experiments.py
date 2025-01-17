@@ -1,52 +1,71 @@
 import senteval
-from transformers import AutoTokenizer, AutoModelForMaskedLM, DebertaV2Model, DebertaV2Tokenizer, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel
-import torch
+from transformers import AutoTokenizer, AutoModelForMaskedLM, DebertaV2Model, DebertaV2Tokenizer, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel # type: ignore
+import torch # type: ignore
 import argparse
 import pandas as pd
 import logging
 
-# Função para checar dispositivo
 def get_device():
     return torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
 
-# Classe Encoder
 class SentenceEncoder:
     def __init__(self, model_name, pooling_strategy, device):
         self.device = device
         self.size_embedding = None
+        self.pooling_strategy = pooling_strategy
 
-        if model_name == 'bert-base':
-            self.name_model = 'google-bert/bert-base-uncased'
+        if model_name == 'bert-base' or 'bert-large':
+            if model_name == 'bert-base':
+                self.name_model = 'google-bert/bert-base-uncased'
+                self.max_length_input = 768
+                self.qtd_layers = 12
+            if model_name == 'bert-large':
+                self.name_model = 'google-bert/bert-large-uncased'
+                self.max_length_input = 768
+                self.qtd_layers = 12
             self.tokenizer = BertTokenizer.from_pretrained(self.name_model)
             self.model = BertModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
-        if model_name == 'roberta-base':
-            self.name_model = 'FacebookAI/roberta-base'
+        if model_name == 'roberta-base' or 'roberta-large':
+            if model_name == 'roberta-base':
+                self.name_model = 'FacebookAI/roberta-base'
+                self.max_length_input = 768
+                self.qtd_layers = 12
+            if model_name == 'roberta-large':
+                self.name_model = 'FacebookAI/roberta-large'
+                self.max_length_input = 768
+                self.qtd_layers = 12
             self.tokenizer = RobertaTokenizer.from_pretrained(self.name_model)
             self.model = RobertaModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
-        if model_name == 'deberta-base':
-            self.name_model = 'microsoft/deberta-v3-base'
+        if model_name == 'deberta-base' or model_name == 'deberta-large':
+            if model_name == 'deberta-base':
+                self.name_model = 'microsoft/deberta-v3-base'
+                self.max_length_input = 768
+                self.qtd_layers = 12
+            if model_name == 'deberta-large':
+                self.name_model = 'microsoft/deberta-v3-large'
+                self.max_length_input = 768
+                self.qtd_layers = 12
             self.tokenizer = DebertaV2Tokenizer.from_pretrained(self.name_model)
             self.model = DebertaV2Model.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
-        if model_name == 'modernbert-base':
-            self.name_model = 'answerdotai/ModernBERT-base'
+        if model_name == 'modernbert-base' or model_name == 'modernbert-large':
+            if model_name == 'modernbert-base':
+                self.name_model = 'answerdotai/ModernBERT-base'
+                self.max_length_input = 768
+                self.qtd_layers = 12
+            if model_name == 'modernbert-large':
+                self.name_model = 'answerdotai/ModernBERT-large'
+                self.max_length_input = 768
+                self.qtd_layers = 12
             self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
             self.model = AutoModelForMaskedLM.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
-        self.pooling_strategy = pooling_strategy
-
     def encode(self, sentences, batch_size=1024): 
-
-        if self.name_model == 'google-bert/bert-base-uncased' or self.name_model == 'FacebookAI/roberta-base' or self.name_model == 'microsoft/deberta-v3-base':
-            max_length_input = 768
-        if self.name_model == 'answerdotai/ModernBERT-base':
-            max_length_input = 8192
-
         # Pré-tokenizar todas as frases
         tokens = self.tokenizer(
-            sentences, padding="longest", truncation=True, return_tensors="pt", max_length=max_length_input
+            sentences, padding="longest", truncation=True, return_tensors="pt", max_length=self.max_length_input
         )
 
         tokens = {key: val.to(self.device) for key, val in tokens.items()}  # Move os tokens para o dispositivo
@@ -234,9 +253,6 @@ class SentenceEncoder:
     def _apply_pooling(self, output, attention_mask):
         hidden_states = output.hidden_states
 
-        #if self.pooling_strategy == 'CLS-CL':
-        #    return output.pooler_output
-
         if self.pooling_strategy.split("_")[-1].startswith("LYR"):
             layer_idx = int(self.pooling_strategy.split("_")[-1].split('-')[-1])   
             LYR_hidden =  hidden_states[layer_idx]            
@@ -268,66 +284,60 @@ class SentenceEncoder:
 
             return self.get_pooling_result(AVGALL_hidden, attention_mask, name_pooling)
 
+    def strategies_pooling_list (self):
 
-def strategies_pooling_list (initial_layer, qtd_layers):
-    pooling_prefixs = ['CLS_', 'AVG_', 'SUM_', 'MAX_', 'AVG-NS_', 'SUM-NS_', 'MAX-NS_', 
-                       'CLS+AVG_', 'CLS+SUM_', 'CLS+MAX_', 'CLS+AVG-NS_', 'CLS+SUM-NS_',
-                        'CLS+MAX-NS_', 'DY3_', 'DY3-NS_', 'DY5_', 'DY5-NS_']
+        simple_poolings = ['CLS', 'AVG', 'SUM', 'MAX']
+        simple_ns_poolings = ['AVG-NS', 'SUM-NS', 'MAX-NS']
+        two_tokens_poolings = ['CLS+AVG', 'CLS+SUM', 'CLS+MAX', 'CLS+AVG-NS', 'CLS+SUM-NS', 'CLS+MAX-NS']
+        three_tokens_poolings = ['CLS+AVG+AVG-NS', 'CLS+AVG+SUM-NS', 'CLS+AVG+MAX-NS', 
+                                'CLS+SUM+AVG-NS', 'CLS+SUM+SUM-NS', 'CLS+SUM+MAX-NS', 
+                                'CLS+MAX+AVG-NS', 'CLS+MAX+SUM-NS', 'CLS+MAX+MAX-NS']
+        dynamic_poolings = ['DY3', 'DY3-NS', 'DY5', 'DY5-NS']
     
-    pooling_prefixs = ['CLS+AVG+AVG-NS_', 'CLS+AVG+SUM-NS_', 'CLS+AVG+MAX-NS_', 'CLS+SUM+AVG-NS_', 'CLS+SUM+SUM-NS_', 'CLS+SUM+MAX-NS_', 'CLS+MAX+AVG-NS_', 'CLS+MAX+SUM-NS_', 'CLS+MAX+MAX-NS_']
-    
-    #ONE LAYER STRATEGIES
-    one_layer_strategies = []
-    for i in range(initial_layer, qtd_layers):
+        pooling_prefixs = simple_poolings + simple_ns_poolings + two_tokens_poolings + three_tokens_poolings + dynamic_poolings
+        initial_layer = self.qtd_layers / 2
+        
+        #ONE LAYER STRATEGIES
+        one_layer_strategies = []
+        for i in range(initial_layer, self.qtd_layers):
+            for p in pooling_prefixs:
+                one_layer_strategies.append(p + f"_LYR-{i+1}")
+
+        #SUM LAST 4 LAYERS STRATEGIES
+        sum_last_4_layers_strategies = []
         for p in pooling_prefixs:
-            one_layer_strategies.append(p + f"LYR-{i+1}")
+            sum_last_4_layers_strategies.append(p + f"_SUML4L")   
 
-    #SUM LAST 4 LAYERS STRATEGIES
-    sum_last_4_layers_strategies = []
-    for p in pooling_prefixs:
-        sum_last_4_layers_strategies.append(p + f"SUML4L")   
+        #AVG LAST 4 LAYERS STRATEGIES
+        avg_last_4_layers_strategies = []
+        for p in pooling_prefixs:
+            avg_last_4_layers_strategies.append(p + f"_AVGL4L")  
+        
+        #SUM ALL LAYERS STRATEGIES
+        sum_all_layers_strategies = []
+        for p in pooling_prefixs:
+            sum_all_layers_strategies.append(p + f"_SUMALL")
+        
+        #AVG ALL LAYERS STRATEGIES
+        avg_all_layers_strategies = []
+        for p in pooling_prefixs:
+            avg_all_layers_strategies.append(p + f"_AVGALL") 
 
-    #AVG LAST 4 LAYERS STRATEGIES
-    avg_last_4_layers_strategies = []
-    for p in pooling_prefixs:
-        avg_last_4_layers_strategies.append(p + f"AVGL4L")  
-    
-    #SUM ALL LAYERS STRATEGIES
-    sum_all_layers_strategies = []
-    for p in pooling_prefixs:
-        sum_all_layers_strategies.append(p + f"SUMALL")
-    
-    #AVG ALL LAYERS STRATEGIES
-    avg_all_layers_strategies = []
-    for p in pooling_prefixs:
-        avg_all_layers_strategies.append(p + f"AVGALL") 
+        pooling_strategies = one_layer_strategies + sum_last_4_layers_strategies + avg_last_4_layers_strategies + sum_all_layers_strategies + avg_all_layers_strategies
+        
+        return pooling_strategies
 
-    pooling_strategies = one_layer_strategies + sum_last_4_layers_strategies + avg_last_4_layers_strategies + sum_all_layers_strategies + avg_all_layers_strategies
-    
-    return pooling_strategies
+def batcher(params, batch):
+    sentences = [' '.join(sent) for sent in batch]
+    return params['encoder'].encode(sentences)
 
-# Função para executar SentEval
-def run_senteval(model_name, initial_layer, tasks, task_path, epochs, nhid_number):
-
-    if model_name == 'bert-base':  
-        qtd_layers = 12
-        initial_layer = int(qtd_layers/2)
-    if model_name == 'roberta-base':            
-        qtd_layers = 12
-        initial_layer = int(qtd_layers/2)
-    if model_name == 'deberta-base':            
-        qtd_layers = 12
-        initial_layer = int(qtd_layers/2)
-    if model_name == 'modernbert-base':
-        qtd_layers = 22
-        initial_layer = int(qtd_layers/2)
-    #initial_layer = qtd_layers - 1
-    pooling_strategies = strategies_pooling_list(initial_layer, qtd_layers)
+def run_senteval(model_name, tasks, task_path, epochs, nhid_number):
 
     device = get_device()
     print(device)
     results = {}
     encoder = SentenceEncoder(model_name, '', device)
+    pooling_strategies = encoder.strategies_pooling_list()
     for pooling in pooling_strategies:
         encoder.pooling_strategy = pooling
         print(f"Running: Model={encoder.name_model}, Pooling={encoder.pooling_strategy}")
@@ -351,12 +361,6 @@ def run_senteval(model_name, initial_layer, tasks, task_path, epochs, nhid_numbe
 
     return results
 
-# Função de batcher
-def batcher(params, batch):
-    sentences = [' '.join(sent) for sent in batch]
-    return params['encoder'].encode(sentences)
-
-# Main Function
 def main():
     parser = argparse.ArgumentParser(description="SentEval Experiments")
     parser.add_argument("--models", type=str, required=True, default="bert-base-uncased,roberta-base", help="Modelos HuggingFace separados por vírgulas")
