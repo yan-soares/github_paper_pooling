@@ -1,5 +1,5 @@
 import senteval
-from transformers import AutoTokenizer, AutoModelForMaskedLM, DebertaV2Model, DebertaV2Tokenizer, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel
+from transformers import AutoTokenizer, AutoModelForMaskedLM, DebertaV2Model, DebertaV2Tokenizer, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel, AutoModel
 import torch
 import argparse
 import pandas as pd
@@ -51,6 +51,24 @@ class SentenceEncoder:
                 self.qtd_layers = 28
             self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
             self.model = AutoModelForMaskedLM.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
+
+        if model_name == 'sbert6':
+            self.name_model = 'sentence-transformers/all-MiniLM-L6-v2'
+            self.qtd_layers = 6
+            self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
+            self.model = AutoModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
+        
+        if model_name == 'sbert12':
+            self.name_model = 'sentence-transformers/all-mpnet-base-v2'
+            self.qtd_layers = 12
+            self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
+            self.model = AutoModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
+
+        if model_name == 'sentencet5-11b':
+            self.name_model = 'sentence-transformers/sentence-t5-xxl'
+            self.qtd_layers = 24
+            self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
+            self.model = AutoModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
     def _encode(self, sentences, batch_size=1024): 
         # Pré-tokenizar todas as frases

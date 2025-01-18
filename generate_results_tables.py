@@ -12,7 +12,7 @@ def parse_dict_with_eval(value):
     except Exception as e:
         return {}
 
-MAIN_PATH = "resultados_processados"
+MAIN_PATH = "tables_main_experiments"
 cl_files = [f for f in os.listdir(MAIN_PATH) if f.startswith('cl_') and f.endswith('.csv')]
 si_files = [f for f in os.listdir(MAIN_PATH) if f.startswith('si_') and f.endswith('.csv')]
 
