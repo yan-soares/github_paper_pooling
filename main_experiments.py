@@ -1,5 +1,5 @@
 import senteval
-from transformers import AutoTokenizer, AutoModelForMaskedLM, DebertaV2Model, DebertaV2Tokenizer, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel, AutoModel
+from transformers import AutoTokenizer, AutoModelForMaskedLM, DebertaV2Model, DebertaV2Tokenizer, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel, AutoModel, DistilBertTokenizer, DistilBertModel
 import torch
 import argparse
 import pandas as pd
@@ -42,6 +42,12 @@ class SentenceEncoder:
             self.tokenizer = DebertaV2Tokenizer.from_pretrained(self.name_model)
             self.model = DebertaV2Model.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
+        if model_name == 'distilbert-base':
+            self.name_model = 'distilbert/distilbert-base-uncased'
+            self.qtd_layers = 12
+            self.tokenizer = DistilBertTokenizer.from_pretrained(self.name_model)
+            self.model = DistilBertModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
+
         if model_name == 'modernbert-base' or model_name == 'modernbert-large':
             if model_name == 'modernbert-base':
                 self.name_model = 'answerdotai/ModernBERT-base'
@@ -52,13 +58,13 @@ class SentenceEncoder:
             self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
             self.model = AutoModelForMaskedLM.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
 
-        if model_name == 'sbert6':
+        if model_name == 'allmini6':
             self.name_model = 'sentence-transformers/all-MiniLM-L6-v2'
             self.qtd_layers = 6
             self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
             self.model = AutoModel.from_pretrained(self.name_model, output_hidden_states=True).to(self.device)
         
-        if model_name == 'sbert12':
+        if model_name == 'allmpnet':
             self.name_model = 'sentence-transformers/all-mpnet-base-v2'
             self.qtd_layers = 12
             self.tokenizer = AutoTokenizer.from_pretrained(self.name_model)
@@ -452,10 +458,10 @@ def similarity_run(models_args, epochs_args, nhid_args, main_path):
 
 def main():
     parser = argparse.ArgumentParser(description="SentEval Experiments")
-    parser.add_argument("--task_type", type=str, required=True, default="classification", help="Tipo de tarefa (classification ou similarity)")
-    parser.add_argument("--models", type=str, required=True, default="deberta-base", help="Modelos separados por vírgula (sem espaços)")
-    parser.add_argument("--epochs", type=int, required=True, default=1, help="Número máximo de épocas do classificador linear")
-    parser.add_argument("--nhid", type=int, required=True, default=0, help="Numero de camadas ocultas (0 = Logistic Regression, 1 ou mais = MLP)")
+    parser.add_argument("--task_type", type=str, required=True, help="Tipo de tarefa (classification ou similarity)")
+    parser.add_argument("--models", type=str, required=True, help="Modelos separados por vírgula (sem espaços)")
+    parser.add_argument("--epochs", type=int, required=True, help="Número máximo de épocas do classificador linear")
+    parser.add_argument("--nhid", type=int, required=True, help="Numero de camadas ocultas (0 = Logistic Regression, 1 ou mais = MLP)")
     parser.add_argument("--initial_layer", type=int, help="Camada inicial para execução dos experimentos")
     args = parser.parse_args()
 
